@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { scaleSequential, interpolateRdYlGn, scaleOrdinal, schemeRdYlGn, format } from 'd3';
+	import Team from './Team.svelte';
+	import GameCenter from './GameCenter.svelte';
 	export let game;
 
 	const colorScale = scaleSequential(interpolateRdYlGn).domain([25, 100]);
@@ -8,23 +10,15 @@
 	console.log(game);
 </script>
 
-<tr style="background-color: {gameColor};">
-	<td>{game.gameDate.getMonth() + 1}/{game.gameDate.getDate() + 1}</td>
-	<td>{game.away_team}</td>
-	<td>@</td>
-	<td>{game.home_team}</td>
-	<td class="number">{formatDec(game.watchability_score)}</td>
-	<td class="number">{game.netrtg_sum}</td>
-	<td class="number">{game.netrtg_diff}</td>
-	<td class="number">{formatDec(game.away_team_health)}</td>
-	<td class="number">{formatDec(game.home_team_health)}</td>
-</tr>
+<div class="game">
+	<Team {game} team={game.teams[0]} />
+	<GameCenter {game} />
+	<Team {game} team={game.teams[1]} />
+</div>
 
 <style>
-	td {
-		padding: 6px 10px;
-	}
-	td.number {
-		text-align: right;
+	.game {
+		display: flex;
+		flex-direction: row;
 	}
 </style>

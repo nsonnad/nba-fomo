@@ -1,9 +1,9 @@
 import type { PageLoad } from './$types';
-import gamesData from '$lib/data/watchability_scores.json';
+import gamesData from '$lib/data/watchabilty.json';
 
 export const load: PageLoad = ({ params }) => {
 	gamesData.forEach((game) => {
-		game.gameDate = new Date(game.GAME_DATE_EST);
+		game.gameDate = new Date(game.gameDate);
 	});
 
 	return {

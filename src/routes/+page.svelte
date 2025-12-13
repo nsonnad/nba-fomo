@@ -6,3 +6,9 @@
 <main>
 	<Matchups games={data.games} />
 </main>
+
+<style>
+	main {
+		width: 100%;
+	}
+</style>
