@@ -1,5 +1,5 @@
 <script>
-	import Matchups from '$lib/Matchups.svelte';
+	import Matchups from '$lib/components/Matchups.svelte';
 	export let data;
 </script>
 
@@ -9,6 +9,7 @@
 
 <style>
 	main {
-		width: 100%;
+		max-width: 700px;
+		margin: 0 auto;
 	}
 </style>

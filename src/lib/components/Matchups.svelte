@@ -3,11 +3,16 @@
 	export let games;
 </script>
 
-<div>
+<div class="matchups">
 	{#each games as game}
 		<Game {game} />
 	{/each}
 </div>
 
 <style>
+	.matchups {
+		display: flex;
+		flex-direction: column;
+		gap: 16px;
+	}
 </style>
