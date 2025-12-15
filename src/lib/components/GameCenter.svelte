@@ -14,6 +14,10 @@
 </script>
 
 <div class="game-center">
+	<div class="game-info">
+		<p>{game.gameDate.toLocaleDateString()}</p>
+		<p>{game.gameTime}</p>
+	</div>
 	<div class="fomo-score">
 		<span>
 			<FomoScore text="fomo" score={game.watchability} />
@@ -31,12 +35,6 @@
 						text="injury adjust"
 						datapoint={game.healthAdj}
 					/>
-					<DataItem colorScale={netRatingScale} text="netrtg sum" datapoint={game.netRatingTotal} />
-					<DataItem
-						colorScale={netRatingDiffScale}
-						text="netrtg diff"
-						datapoint={game.netRatingDiff}
-					/>
 				</tbody>
 			</table>
 		</span>
@@ -50,10 +48,17 @@
 		width: 100%;
 		padding: 0px;
 	}
+	.game-info {
+		line-height: 0.5em;
+	}
 	table {
 		text-align: left;
 		font-family: var(--font-sans);
 		width: 100%;
 		border-collapse: collapse;
+	}
+	p {
+		font-family: var(--font-sans);
+		color: gray;
 	}
 </style>
