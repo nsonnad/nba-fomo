@@ -15,19 +15,19 @@
 
 <style>
 	.fomo-score-outer {
-		margin: 12px 0;
+		margin: 0 0 12px 0;
 		display: flex;
 		flex-direction: column;
 	}
 	.fomo-score {
 		font-family: var(--font-mono);
-		font-size: 1.75rem;
+		font-size: 2.5rem;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		margin: 0 auto;
 		padding: 12px;
-		border-radius: 4px;
+		border-radius: 0 0 4px 4px;
 		font-weight: bold;
 	}
 
