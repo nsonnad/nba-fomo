@@ -8,7 +8,7 @@
 	let textColor = 'black';
 
 	const backgroundColor = colorScale(datapoint);
-	if (backgroundColor === '#1a9641') {
+	if (backgroundColor === 'hsla(139, 70.5%, 34.5%, 0.8)') {
 		textColor = 'white';
 	}
 </script>

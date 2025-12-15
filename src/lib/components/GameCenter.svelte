@@ -6,7 +6,9 @@
 		fomoScale,
 		fomoScaleText,
 		b2bAdjustScale,
-		injuryAdjustScale
+		injuryAdjustScale,
+		netRatingScale,
+		netRatingDiffScale
 	} from '$lib/utils/fomoColorScale';
 	export let game;
 </script>
@@ -29,6 +31,12 @@
 						text="injury adjust"
 						datapoint={game.healthAdj}
 					/>
+					<DataItem colorScale={netRatingScale} text="netrtg sum" datapoint={game.netRatingTotal} />
+					<DataItem
+						colorScale={netRatingDiffScale}
+						text="netrtg diff"
+						datapoint={game.netRatingDiff}
+					/>
 				</tbody>
 			</table>
 		</span>
@@ -40,7 +48,7 @@
 		flex-basis: 30%;
 		text-align: center;
 		width: 100%;
-		padding: 10px;
+		padding: 0px;
 	}
 	table {
 		text-align: left;
