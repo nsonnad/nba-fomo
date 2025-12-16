@@ -1,21 +1,52 @@
 <script lang="ts">
+	import { slide } from 'svelte/transition';
 	import Team from './Team.svelte';
 	import GameCenter from './GameCenter.svelte';
+	import TeamData from './TeamData.svelte';
+	import GameData from './GameData.svelte';
 	export let game;
 
-	console.log(game);
+	let isExpanded = false;
+
+	// 2. Define the toggle function.
+	function toggleExpanded() {
+		isExpanded = !isExpanded;
+	}
+
+	function handleKey(event) {
+		// Check if the key pressed is Enter (keyCode 13) or Space (keyCode 32)
+		if (event.keyCode === 13 || event.keyCode === 32) {
+			event.preventDefault(); // Prevent default scroll action for Space
+			toggleExpanded();
+		}
+	}
 </script>
 
-<div class="game">
-	<Team {game} team={game.teams[0]} />
-	<GameCenter {game} />
-	<Team {game} team={game.teams[1]} />
+<div
+	class="game"
+	on:click={toggleExpanded}
+	role="button"
+	on:keydown={handleKey}
+	tabindex="0"
+	class:expanded={isExpanded}
+>
+	<Team {game} team={game.teams[1]} {isExpanded} />
+	<GameCenter {game} {isExpanded} />
+	<Team {game} team={game.teams[0]} {isExpanded} />
+	{#if isExpanded}
+		<TeamData team={game.teams[1]} {game} />
+		<GameData {game} />
+		<TeamData team={game.teams[0]} {game} />
+	{/if}
 </div>
 
 <style>
 	.game {
-		display: flex;
-		flex-direction: row;
+		cursor: pointer;
+		display: grid;
+		grid-template-columns: 35% 30% 35%;
+		gap: 0;
+		width: 100%;
 		border: 1px solid black;
 		/* 1. Define the Initial Shadow */
 		box-shadow: 6px 6px rgba(0, 0, 0, 0.2);
@@ -28,7 +59,7 @@
 	}
 
 	/* 3. Define the Hover State (The Animated State) */
-	/* .game:hover { */
-	/* 	box-shadow: 6px 10px 10px 5px rgba(0, 0, 0, 0.3); */
-	/* } */
+	.game:hover {
+		box-shadow: 6px 10px 10px 5px rgba(0, 0, 0, 0.3);
+	}
 </style>

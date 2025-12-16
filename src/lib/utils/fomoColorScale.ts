@@ -5,9 +5,9 @@ const FOMO_COLORS = [
   // Low Score (Red/High Opacity): Red Hue (0), High Saturation, Medium Lightness
   'hsla(11, 79%, 46.7%, 0.8)',
   // Mid Score (Orange/Medium Opacity)
-  'hsla(30, 97.5%, 68.6%, 0.8)',
+  'hsla(40, 97.5%, 68.6%, 1)',
   // High Score (Green/Low Opacity)
-  'hsla(88, 59.4%, 63.3%, 0.8)',
+  'hsla(88, 59.4%, 63.3%, 1)',
   // Elite Score (Darker Green/Very Low Opacity)
   'hsla(139, 70.5%, 34.5%, 0.8)'
 ];

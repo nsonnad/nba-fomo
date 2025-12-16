@@ -1,54 +1,23 @@
 <script>
 	import FomoScore from './FomoScore.svelte';
-	import DataItem from './DataItem.svelte';
+	import GameData from './GameData.svelte';
 
-	import {
-		fomoScale,
-		fomoScaleText,
-		b2bAdjustScale,
-		injuryAdjustScale,
-		netRatingScale,
-		netRatingDiffScale
-	} from '$lib/utils/fomoColorScale';
 	export let game;
+	export let isExpanded = false;
 </script>
 
 <div class="game-center">
-	<div class="fomo-score">
-		<FomoScore text="fomo" score={game.watchability} />
-	</div>
-	<table>
-		<tbody>
-			<DataItem colorScale={fomoScale} text="team quality" datapoint={game.teamQuality} />
-			<DataItem colorScale={fomoScale} text="competitiveness" datapoint={game.competitiveness} />
-			<DataItem colorScale={b2bAdjustScale} text="b2b adjust" datapoint={game.b2bAdj} />
-			<DataItem colorScale={injuryAdjustScale} text="injury adjust" datapoint={game.healthAdj} />
-		</tbody>
-	</table>
-	<div class="game-info">
-		<p>{game.gameDate.toLocaleDateString()}</p>
-		<p>{game.gameTime}</p>
-	</div>
+	<FomoScore text="fomo" score={game.watchability} />
 </div>
 
 <style>
 	.game-center {
+		display: flex;
+		flex-direction: column;
 		flex-basis: 30%;
 		text-align: center;
 		width: 100%;
-		padding: 0px;
-	}
-	.game-info {
-		line-height: 0.5em;
-	}
-	table {
-		text-align: left;
-		font-family: var(--font-sans);
-		width: 100%;
-		border-collapse: collapse;
-	}
-	p {
-		font-family: var(--font-sans);
-		color: gray;
+		padding: 12px 0;
+		gap: 20px;
 	}
 </style>
