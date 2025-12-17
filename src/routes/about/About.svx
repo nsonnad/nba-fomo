@@ -1,0 +1,22 @@
+# NBA FOMO SCORE EXPLANATION
+
+(Or go back to [the scores](/))
+
+The FOMO score is not terribly sophisticated, though I think it does a pretty good job of estimating what will be fun to watch.
+
+There are four factors that go into the FOMO score, in descending order of how heavily they are weighted in the final formula:
+
+1. **team parity** (how closely matche the teams are)
+2. **team quality** (how good the teams are)
+3. **health** (how many players are injured and how important those players are)
+4. whether one or both teams is on a **back-to-back** (i.e., they play a game the previous day)
+
+**"Team parity"** is measured as the difference between the two teams' net ratings as a percentage of the current gap between the highest and lowest ratings in the league. This number is inverted so that 0 difference in rating = 100% parity, whereas a massive gap in rating produces a low parity.
+
+**"Team quality"** is measured as the two playing teams' combined net rating, normalized as a percentage of a defined-by-me "theoretical minimum and maximum" combined net rating of -20 to +20. There have of course been times when two teams have combined for more than +20 or less than -20, but these are just about the limits of what has been sustainable over a whole season, and setting the maximum too high or minimum too low makes all but the very best teams score too low on FOMO.
+
+**"Health"** identifies players that are missing for a given game, and computes a "team strength" metric based on the percentage of the team's total PIE ([Player Impact Estimate](https://www.nbastuffer.com/analytics101/player-impact-estimate-pie/)) missing as a result of injuries. For example, as of this writing the combined PIE of all Minnesota Timberwolves players is 128.1. Anthony Edwards, their best player, has a PIE of 15. So if Edwards is out for a game, and all other Timberwolves are healthy, the team strength would be (128.1 - 15) / 128.1 = 88%. Then, a penalty is applied to the FOMO score based on the magnitude of the loss of team strength due to injuries for both teams. Injuries and how they affect teams are a lot more complicated than what PIE can capture, but again I think it is a valuable rough estimate.
+
+**"Back to back"** simply penalizes the FOMO score 5 points for each team that played the night before. In my experience these games are much less fun and the back-to-back team(s) are visibly exhausted.
+
+All of these four factors are then weighted differently in terms of how much they impact the final score, and I am adjusting these occasionally when the results seem off. But in general, as I said before, I prioritize them in importance by: parity, quality, health, and back to back.

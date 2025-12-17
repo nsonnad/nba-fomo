@@ -10,6 +10,7 @@
 
 	// 2. Define the toggle function.
 	function toggleExpanded() {
+		console.log(game);
 		isExpanded = !isExpanded;
 	}
 

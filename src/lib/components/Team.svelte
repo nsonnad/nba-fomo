@@ -7,14 +7,16 @@
 	const currentTeam = teamInfo[team.abbrev];
 	const teamPrimaryColor = currentTeam['mainColor'];
 	const teamPrimaryColorHex = currentTeam['colors'][teamPrimaryColor].hex;
-	const teamName = currentTeam.shortName;
+	const teamName = currentTeam.nickname;
+	const teamShortName = currentTeam.hasOwnProperty('shortName') ? currentTeam.shortName : teamName;
 	const teamRecord = `${team.wins}-${team.losses}`;
 </script>
 
-<div class="game-team game-team-{teamSide}">
-	<div class="game-team-name" style="background-color: {teamPrimaryColorHex};">
-		<h2>{teamName}</h2>
-		<h4>{teamRecord}</h4>
+<div class="game-team game-team-{teamSide}" style="background-color: {teamPrimaryColorHex};">
+	<div class="game-team-name">
+		<h2 class="team-name-long">{teamName}</h2>
+		<h2 class="team-name-short">{teamShortName}</h2>
+		<h4 class="team-record">{teamRecord}</h4>
 	</div>
 </div>
 
@@ -37,9 +39,6 @@
 		margin: 4px 0 0 0;
 		padding: 0;
 	}
-	table {
-		width: 100%;
-	}
 	.game-team {
 		flex-grow: 0;
 		flex-shrink: 0;
@@ -53,5 +52,31 @@
 	.game-team-home {
 		text-align: right;
 		border-left: 1px solid black;
+	}
+
+	.team-name-long {
+		display: inline;
+	}
+
+	.team-name-short {
+		display: none;
+	}
+	@media (max-width: 768px) {
+		.game-team-name {
+			padding: 20px 12px;
+		}
+		h2 {
+			font-size: 1.2em;
+		}
+		h4 {
+			font-size: 0.9em;
+		}
+		.team-name-long {
+			display: none;
+		}
+
+		.team-name-short {
+			display: inline;
+		}
 	}
 </style>

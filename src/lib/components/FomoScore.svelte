@@ -38,4 +38,10 @@
 		font-family: var(--font-sans);
 		margin: 0;
 	}
+
+	@media (max-width: 768px) {
+		.fomo-score {
+			font-size: 1.6rem;
+		}
+	}
 </style>
