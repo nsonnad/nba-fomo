@@ -24,7 +24,7 @@ export const fomoScaleText = scaleThreshold()
 
 export const b2bAdjustScale = scaleThreshold().domain([-10, -5, 0]).range(FOMO_COLORS);
 
-export const injuryAdjustScale = scaleThreshold().domain([-2, -1, -0.5]).range(FOMO_COLORS);
+export const injuryAdjustScale = scaleThreshold().domain([-10, -5, -0.5]).range(FOMO_COLORS);
 
 export const netRatingScale = scaleThreshold().domain([-15, 0, 15]).range(FOMO_COLORS);
 export const netRatingDiffScale = scaleThreshold().domain([5, 10, 15]).range(FOMO_COLORS_REVERSED);

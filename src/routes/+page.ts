@@ -12,7 +12,7 @@ export const load: PageLoad = () => {
   }));
 
   // 2. Sort using .getTime() for TypeScript compatibility
-  // processedGames.sort((a, b) => a.gameDateParsed.getTime() - b.gameDateParsed.getTime());
+  processedGames.sort((a, b) => a.gameDateParsed.getTime() - b.gameDateParsed.getTime());
 
   return {
     games: processedGames

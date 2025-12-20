@@ -41,17 +41,13 @@
 	}
 	.game-team {
 		flex-grow: 0;
-		flex-shrink: 0;
-		flex-basis: 35%;
 	}
 
 	.game-team-away {
 		text-align: left;
-		border-right: 1px solid black;
 	}
 	.game-team-home {
 		text-align: right;
-		border-left: 1px solid black;
 	}
 
 	.team-name-long {

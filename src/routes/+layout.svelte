@@ -28,6 +28,19 @@
 		--line-height-mono: 1.6;
 	}
 
+	:global(body) {
+		background-color: black;
+		color: white;
+		font-family: var(--font-sans);
+	}
+
+	:global(a) {
+		color: hsla(193, 58%, 73%, 1);
+	}
+
+	:global(a:visited) {
+		color: hsla(249, 58%, 73%, 0.9);
+	}
 	/* font-family: var(--font-family-mono-master); */
 	/* Note: Setting font-size here can override component-level styles */
 	/* font-size: var(--font-size-mono-base); */

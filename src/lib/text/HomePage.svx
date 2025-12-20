@@ -1,7 +1,6 @@
-# NBA NO FOMO
+# NBA FOMO SCORE
 
- NBA NO FOMO is a page that assigns a FOMO score to all NBA games over the next week. The FOMO score is a 0-100 scale that estimates how fun, entertaining, and worth watching a game will be. If you're not sure what game to watch, consult NBA NO FOMO!
+ Welcome to NBA FOMO SCORE! This page assigns a FOMO score to all NBA games over the next week. FOMO is a 0-100 scale that estimates how entertaining and worth watching a game will be. If you're afraid of missing out on a good game, consult NBA FOMO~
 
 Click on a game to reveal some of the underlying data behind each score. You can read a full explanation of the score methodology [here](about).
 
-And if you find this useful, consider donating to me! (I'm broke)

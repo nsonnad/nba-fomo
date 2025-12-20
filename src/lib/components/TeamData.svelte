@@ -28,7 +28,7 @@
 	</div>
 	{#if hasInjuredPlayers}
 		<div class="team-data-injuries">
-			<h5 class="injuries injuries-{dataItemAlign}">>>injuries</h5>
+			<h5 class="injuries injuries-{dataItemAlign}">>> injuries</h5>
 			{#each team.injuredPlayers as p, i}
 				{#if i === 0}
 					<DataItem
@@ -56,6 +56,7 @@
 		margin: 6px 0;
 		font-family: var(--font-mono);
 		text-align: center;
+		color: black;
 	}
 
 	@media (max-width: 768px) {

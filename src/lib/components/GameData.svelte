@@ -1,8 +1,9 @@
 <script>
 	import DataItem from './DataItem.svelte';
-	export let game;
-
+	import localizeGameTime from '$lib/utils/localizeGameTime';
 	import { fomoScale, b2bAdjustScale, injuryAdjustScale } from '$lib/utils/fomoColorScale';
+	export let game;
+	const gameTime = localizeGameTime(game.gameTime);
 </script>
 
 <div class="game-data">
@@ -30,6 +31,7 @@
 		datapoint={game.healthAdj}
 		align="center"
 	/>
+	<DataItem text="game time" datapoint={gameTime} align="center" />
 </div>
 
 <style>

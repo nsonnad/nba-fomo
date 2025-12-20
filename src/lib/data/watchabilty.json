@@ -1,393 +1,197 @@
 [
   {
-    "gameID": "22500367",
-    "gameDate": "2025-12-17",
-    "gameTime": "8:00 pm ET",
-    "watchability": 59.18,
-    "teamQuality": 44.09,
-    "competitiveness": 73.51,
-    "netRatingTotal": -2.6,
-    "netRatingDiff": 8.0,
-    "healthAdj": -2.56,
+    "gameID": "22500009",
+    "gameDate": "2025-12-25",
+    "gameTime": "12:00 pm ET",
+    "watchability": 75.72,
+    "teamQuality": 76.0,
+    "competitiveness": 79.22,
+    "netRatingTotal": 10.4,
+    "netRatingDiff": 6.4,
+    "healthAdj": -2.21,
     "b2bAdj": 0,
     "teams": [
       {
         "isHome": true,
         "isb2b": false,
-        "id": 1610612741,
-        "abbrev": "CHI",
-        "netRating": -5.3,
-        "defRating": 117.4,
-        "offRating": 112.1,
-        "wins": 10,
-        "losses": 15,
-        "netRatingRank": 24,
-        "defRatingRank": 24,
-        "offRatingRank": 25,
-        "health": 1.067043048694425,
-        "injuredPlayers": [
-          {
-            "playerName": "Noa Essengue",
-            "pie": -0.095
-          }
-        ]
+        "id": 1610612752,
+        "abbrev": "NYK",
+        "netRating": 8.4,
+        "defRating": 113.3,
+        "offRating": 121.7,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 4,
+        "defRatingRank": 11,
+        "offRatingRank": 2,
+        "health": 1.0,
+        "injuredPlayers": []
       },
       {
         "isHome": false,
         "isb2b": false,
         "id": 1610612739,
         "abbrev": "CLE",
-        "netRating": 2.7,
-        "defRating": 113.2,
-        "offRating": 115.8,
+        "netRating": 2.0,
+        "defRating": 113.4,
+        "offRating": 115.4,
         "wins": 15,
-        "losses": 12,
-        "netRatingRank": 10,
-        "defRatingRank": 9,
-        "offRatingRank": 10,
-        "health": 0.8306451612903226,
+        "losses": 13,
+        "netRatingRank": 12,
+        "defRatingRank": 14,
+        "offRatingRank": 11,
+        "health": 0.911504424778761,
         "injuredPlayers": [
           {
             "playerName": "Evan Mobley",
             "pie": 0.13
-          },
-          {
-            "playerName": "Larry Nance Jr.",
-            "pie": 0.036000000000000004
-          },
-          {
-            "playerName": "Sam Merrill",
-            "pie": 0.08600000000000001
           }
         ]
       }
     ]
   },
   {
-    "gameID": "22500368",
-    "gameDate": "2025-12-17",
-    "gameTime": "8:00 pm ET",
-    "watchability": 63.01,
-    "teamQuality": 57.95,
-    "competitiveness": 79.8,
-    "netRatingTotal": 3.5,
-    "netRatingDiff": 6.1,
-    "healthAdj": -8.06,
-    "b2bAdj": 0,
-    "teams": [
-      {
-        "isHome": true,
-        "isb2b": false,
-        "id": 1610612750,
-        "abbrev": "MIN",
-        "netRating": 4.8,
-        "defRating": 113.2,
-        "offRating": 118.0,
-        "wins": 17,
-        "losses": 9,
-        "netRatingRank": 7,
-        "defRatingRank": 10,
-        "offRatingRank": 6,
-        "health": 0.9476971116315379,
-        "injuredPlayers": [
-          {
-            "playerName": "Mike Conley",
-            "pie": 0.067
-          }
-        ]
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612763,
-        "abbrev": "MEM",
-        "netRating": -1.3,
-        "defRating": 113.8,
-        "offRating": 112.4,
-        "wins": 12,
-        "losses": 14,
-        "netRatingRank": 18,
-        "defRatingRank": 13,
-        "offRatingRank": 24,
-        "health": 0.7300539892021596,
-        "injuredPlayers": [
-          {
-            "playerName": "Cam Spencer",
-            "pie": 0.128
-          },
-          {
-            "playerName": "Javon Small",
-            "pie": 0.064
-          },
-          {
-            "playerName": "John Konchar",
-            "pie": 0.101
-          },
-          {
-            "playerName": "Zach Edey",
-            "pie": 0.157
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "gameID": "22500371",
-    "gameDate": "2025-12-18",
-    "gameTime": "7:00 pm ET",
-    "watchability": 67.13,
-    "teamQuality": 43.18,
-    "competitiveness": 86.75,
-    "netRatingTotal": -3.0,
-    "netRatingDiff": 4.0,
-    "healthAdj": -2.2,
-    "b2bAdj": 0,
-    "teams": [
-      {
-        "isHome": true,
-        "isb2b": false,
-        "id": 1610612766,
-        "abbrev": "CHA",
-        "netRating": -3.5,
-        "defRating": 117.3,
-        "offRating": 113.8,
-        "wins": 8,
-        "losses": 18,
-        "netRatingRank": 21,
-        "defRatingRank": 23,
-        "offRatingRank": 17,
-        "health": 1.0,
-        "injuredPlayers": []
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612737,
-        "abbrev": "ATL",
-        "netRating": 0.5,
-        "defRating": 114.0,
-        "offRating": 114.5,
-        "wins": 15,
-        "losses": 12,
-        "netRatingRank": 16,
-        "defRatingRank": 15,
-        "offRatingRank": 13,
-        "health": 0.9121578612348822,
-        "injuredPlayers": [
-          {
-            "playerName": "Kristaps Porzi\u0146\u0123is",
-            "pie": 0.138
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "gameID": "22500372",
-    "gameDate": "2025-12-18",
-    "gameTime": "7:00 pm ET",
-    "watchability": 44.48,
-    "teamQuality": 51.59,
-    "competitiveness": 45.36,
-    "netRatingTotal": 0.7,
-    "netRatingDiff": 16.5,
-    "healthAdj": -3.38,
-    "b2bAdj": 0,
-    "teams": [
-      {
-        "isHome": true,
-        "isb2b": false,
-        "id": 1610612754,
-        "abbrev": "IND",
-        "netRating": -7.9,
-        "defRating": 116.1,
-        "offRating": 108.2,
-        "wins": 6,
-        "losses": 20,
-        "netRatingRank": 27,
-        "defRatingRank": 19,
-        "offRatingRank": 30,
-        "health": 0.9040191961607679,
-        "injuredPlayers": [
-          {
-            "playerName": "Ben Sheppard",
-            "pie": 0.058
-          },
-          {
-            "playerName": "Obi Toppin",
-            "pie": 0.10200000000000001
-          }
-        ]
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612752,
-        "abbrev": "NYK",
-        "netRating": 8.6,
-        "defRating": 113.3,
-        "offRating": 122.0,
-        "wins": 18,
-        "losses": 7,
-        "netRatingRank": 4,
-        "defRatingRank": 11,
-        "offRatingRank": 2,
-        "health": 0.9609450337512054,
-        "injuredPlayers": [
-          {
-            "playerName": "Landry Shamet",
-            "pie": 0.081
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "gameID": "22500373",
-    "gameDate": "2025-12-18",
-    "gameTime": "7:30 pm ET",
-    "watchability": 60.02,
-    "teamQuality": 43.64,
-    "competitiveness": 74.17,
-    "netRatingTotal": -2.8,
-    "netRatingDiff": 7.8,
-    "healthAdj": -1.93,
-    "b2bAdj": 0,
-    "teams": [
-      {
-        "isHome": true,
-        "isb2b": false,
-        "id": 1610612751,
-        "abbrev": "BKN",
-        "netRating": -5.3,
-        "defRating": 118.1,
-        "offRating": 112.8,
-        "wins": 7,
-        "losses": 18,
-        "netRatingRank": 23,
-        "defRatingRank": 25,
-        "offRatingRank": 23,
-        "health": 0.9226384364820847,
-        "injuredPlayers": [
-          {
-            "playerName": "Cam Thomas",
-            "pie": 0.095
-          }
-        ]
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612748,
-        "abbrev": "MIA",
-        "netRating": 2.5,
-        "defRating": 111.8,
-        "offRating": 114.3,
-        "wins": 14,
-        "losses": 12,
-        "netRatingRank": 11,
-        "defRatingRank": 4,
-        "offRatingRank": 15,
-        "health": 1.0,
-        "injuredPlayers": []
-      }
-    ]
-  },
-  {
-    "gameID": "22500374",
-    "gameDate": "2025-12-18",
-    "gameTime": "8:00 pm ET",
-    "watchability": 63.19,
-    "teamQuality": 46.82,
-    "competitiveness": 80.79,
-    "netRatingTotal": -1.4,
-    "netRatingDiff": 5.8,
-    "healthAdj": -4.01,
-    "b2bAdj": 0,
-    "teams": [
-      {
-        "isHome": true,
-        "isb2b": false,
-        "id": 1610612749,
-        "abbrev": "MIL",
-        "netRating": -3.6,
-        "defRating": 117.0,
-        "offRating": 113.4,
-        "wins": 11,
-        "losses": 16,
-        "netRatingRank": 22,
-        "defRatingRank": 21,
-        "offRatingRank": 22,
-        "health": 0.8395657418576599,
-        "injuredPlayers": [
-          {
-            "playerName": "Giannis Antetokounmpo",
-            "pie": 0.224
-          },
-          {
-            "playerName": "Taurean Prince",
-            "pie": 0.042
-          }
-        ]
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612761,
-        "abbrev": "TOR",
-        "netRating": 2.2,
-        "defRating": 112.6,
-        "offRating": 114.8,
-        "wins": 16,
-        "losses": 11,
-        "netRatingRank": 12,
-        "defRatingRank": 7,
-        "offRatingRank": 12,
-        "health": 1.0,
-        "injuredPlayers": []
-      }
-    ]
-  },
-  {
-    "gameID": "22500375",
-    "gameDate": "2025-12-18",
-    "gameTime": "8:00 pm ET",
-    "watchability": 45.8,
-    "teamQuality": 53.41,
-    "competitiveness": 40.73,
-    "netRatingTotal": 1.5,
-    "netRatingDiff": 17.9,
+    "gameID": "22500010",
+    "gameDate": "2025-12-25",
+    "gameTime": "2:30 pm ET",
+    "watchability": 77.6,
+    "teamQuality": 100.0,
+    "competitiveness": 62.66,
+    "netRatingTotal": 21.5,
+    "netRatingDiff": 11.5,
     "healthAdj": -0.0,
     "b2bAdj": 0,
     "teams": [
       {
         "isHome": true,
         "isb2b": false,
-        "id": 1610612740,
-        "abbrev": "NOP",
-        "netRating": -8.2,
-        "defRating": 119.7,
-        "offRating": 111.5,
-        "wins": 5,
-        "losses": 22,
-        "netRatingRank": 28,
-        "defRatingRank": 28,
-        "offRatingRank": 26,
+        "id": 1610612760,
+        "abbrev": "OKC",
+        "netRating": 16.5,
+        "defRating": 103.0,
+        "offRating": 119.5,
+        "wins": 25,
+        "losses": 2,
+        "netRatingRank": 1,
+        "defRatingRank": 1,
+        "offRatingRank": 5,
         "health": 1.0,
         "injuredPlayers": []
       },
       {
         "isHome": false,
         "isb2b": false,
+        "id": 1610612759,
+        "abbrev": "SAS",
+        "netRating": 5.0,
+        "defRating": 113.1,
+        "offRating": 118.1,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 7,
+        "defRatingRank": 10,
+        "offRatingRank": 7,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500011",
+    "gameDate": "2025-12-25",
+    "gameTime": "5:00 pm ET",
+    "watchability": 67.15,
+    "teamQuality": 45.5,
+    "competitiveness": 84.42,
+    "netRatingTotal": -1.8,
+    "netRatingDiff": 4.8,
+    "healthAdj": -1.7,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612744,
+        "abbrev": "GSW",
+        "netRating": 1.5,
+        "defRating": 111.4,
+        "offRating": 112.8,
+        "wins": 13,
+        "losses": 15,
+        "netRatingRank": 14,
+        "defRatingRank": 4,
+        "offRatingRank": 21,
+        "health": 1.0,
+        "injuredPlayers": []
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612742,
+        "abbrev": "DAL",
+        "netRating": -3.3,
+        "defRating": 112.2,
+        "offRating": 108.9,
+        "wins": 11,
+        "losses": 17,
+        "netRatingRank": 21,
+        "defRatingRank": 6,
+        "offRatingRank": 27,
+        "health": 0.9321789321789321,
+        "injuredPlayers": [
+          {
+            "playerName": "Dereck Lively II",
+            "pie": 0.094
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500012",
+    "gameDate": "2025-12-25",
+    "gameTime": "8:00 pm ET",
+    "watchability": 76.09,
+    "teamQuality": 77.0,
+    "competitiveness": 75.97,
+    "netRatingTotal": 10.8,
+    "netRatingDiff": 7.4,
+    "healthAdj": -0.3,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612747,
+        "abbrev": "LAL",
+        "netRating": 1.7000000000000002,
+        "defRating": 117.1,
+        "offRating": 118.8,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 13,
+        "defRatingRank": 22,
+        "offRatingRank": 6,
+        "health": 0.9880868955851437,
+        "injuredPlayers": [
+          {
+            "playerName": "Gabe Vincent",
+            "pie": 0.017
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
         "id": 1610612745,
         "abbrev": "HOU",
-        "netRating": 9.7,
-        "defRating": 111.6,
-        "offRating": 121.4,
+        "netRating": 9.1,
+        "defRating": 112.1,
+        "offRating": 121.2,
         "wins": 16,
-        "losses": 7,
-        "netRatingRank": 2,
-        "defRatingRank": 3,
+        "losses": 8,
+        "netRatingRank": 3,
+        "defRatingRank": 5,
         "offRatingRank": 3,
         "health": 1.0,
         "injuredPlayers": []
@@ -395,66 +199,15 @@
     ]
   },
   {
-    "gameID": "22500376",
-    "gameDate": "2025-12-18",
-    "gameTime": "8:30 pm ET",
-    "watchability": 61.38,
-    "teamQuality": 56.36,
-    "competitiveness": 67.55,
-    "netRatingTotal": 2.8,
-    "netRatingDiff": 9.8,
-    "healthAdj": -1.69,
-    "b2bAdj": 0,
-    "teams": [
-      {
-        "isHome": true,
-        "isb2b": false,
-        "id": 1610612742,
-        "abbrev": "DAL",
-        "netRating": -3.5,
-        "defRating": 112.6,
-        "offRating": 109.1,
-        "wins": 10,
-        "losses": 17,
-        "netRatingRank": 20,
-        "defRatingRank": 8,
-        "offRatingRank": 28,
-        "health": 0.9323741007194244,
-        "injuredPlayers": [
-          {
-            "playerName": "Dereck Lively II",
-            "pie": 0.094
-          }
-        ]
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612765,
-        "abbrev": "DET",
-        "netRating": 6.3,
-        "defRating": 111.2,
-        "offRating": 117.4,
-        "wins": 21,
-        "losses": 5,
-        "netRatingRank": 5,
-        "defRatingRank": 2,
-        "offRatingRank": 9,
-        "health": 1.0,
-        "injuredPlayers": []
-      }
-    ]
-  },
-  {
-    "gameID": "22500377",
-    "gameDate": "2025-12-18",
-    "gameTime": "9:00 pm ET",
-    "watchability": 75.03,
-    "teamQuality": 79.32,
-    "competitiveness": 81.13,
-    "netRatingTotal": 12.9,
-    "netRatingDiff": 5.7,
-    "healthAdj": -5.37,
+    "gameID": "22500013",
+    "gameDate": "2025-12-25",
+    "gameTime": "10:30 pm ET",
+    "watchability": 81.2,
+    "teamQuality": 84.5,
+    "competitiveness": 83.77,
+    "netRatingTotal": 13.8,
+    "netRatingDiff": 5.0,
+    "healthAdj": -2.86,
     "b2bAdj": 0,
     "teams": [
       {
@@ -462,15 +215,15 @@
         "isb2b": false,
         "id": 1610612743,
         "abbrev": "DEN",
-        "netRating": 9.3,
-        "defRating": 115.1,
+        "netRating": 9.4,
+        "defRating": 115.0,
         "offRating": 124.4,
-        "wins": 19,
+        "wins": 20,
         "losses": 6,
-        "netRatingRank": 3,
+        "netRatingRank": 2,
         "defRatingRank": 17,
         "offRatingRank": 1,
-        "health": 0.8850828729281768,
+        "health": 0.8857142857142858,
         "injuredPlayers": [
           {
             "playerName": "Aaron Gordon",
@@ -485,21 +238,507 @@
       {
         "isHome": false,
         "isb2b": false,
+        "id": 1610612750,
+        "abbrev": "MIN",
+        "netRating": 4.4,
+        "defRating": 113.0,
+        "offRating": 117.4,
+        "wins": 17,
+        "losses": 10,
+        "netRatingRank": 8,
+        "defRatingRank": 9,
+        "offRatingRank": 8,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500371",
+    "gameDate": "2025-12-18",
+    "gameTime": "7:00 pm ET",
+    "watchability": 59.9,
+    "teamQuality": 42.75,
+    "competitiveness": 89.29,
+    "netRatingTotal": -2.9,
+    "netRatingDiff": 3.3,
+    "healthAdj": -10.77,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612766,
+        "abbrev": "CHA",
+        "netRating": -3.1,
+        "defRating": 117.5,
+        "offRating": 114.4,
+        "wins": 9,
+        "losses": 18,
+        "netRatingRank": 19,
+        "defRatingRank": 24,
+        "offRatingRank": 14,
+        "health": 0.8007968127490039,
+        "injuredPlayers": [
+          {
+            "playerName": "Collin Sexton",
+            "pie": 0.117
+          },
+          {
+            "playerName": "Pat Connaughton",
+            "pie": 0.13
+          },
+          {
+            "playerName": "Tre Mann",
+            "pie": 0.053
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612737,
+        "abbrev": "ATL",
+        "netRating": 0.2,
+        "defRating": 114.5,
+        "offRating": 114.8,
+        "wins": 15,
+        "losses": 13,
+        "netRatingRank": 16,
+        "defRatingRank": 16,
+        "offRatingRank": 12,
+        "health": 0.7683397683397682,
+        "injuredPlayers": [
+          {
+            "playerName": "Kristaps Porzi\u0146\u0123is",
+            "pie": 0.138
+          },
+          {
+            "playerName": "N'Faly Dante",
+            "pie": 0.116
+          },
+          {
+            "playerName": "Trae Young",
+            "pie": 0.106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500372",
+    "gameDate": "2025-12-18",
+    "gameTime": "7:00 pm ET",
+    "watchability": 42.94,
+    "teamQuality": 51.75,
+    "competitiveness": 47.73,
+    "netRatingTotal": 0.7,
+    "netRatingDiff": 16.1,
+    "healthAdj": -6.39,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612754,
+        "abbrev": "IND",
+        "netRating": -7.7,
+        "defRating": 116.0,
+        "offRating": 108.4,
+        "wins": 6,
+        "losses": 21,
+        "netRatingRank": 27,
+        "defRatingRank": 19,
+        "offRatingRank": 30,
+        "health": 0.8118572292800968,
+        "injuredPlayers": [
+          {
+            "playerName": "Aaron Nesmith",
+            "pie": 0.079
+          },
+          {
+            "playerName": "Ben Sheppard",
+            "pie": 0.058
+          },
+          {
+            "playerName": "Obi Toppin",
+            "pie": 0.10200000000000001
+          },
+          {
+            "playerName": "Tony Bradley",
+            "pie": 0.07200000000000001
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612752,
+        "abbrev": "NYK",
+        "netRating": 8.4,
+        "defRating": 113.3,
+        "offRating": 121.7,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 4,
+        "defRatingRank": 11,
+        "offRatingRank": 2,
+        "health": 0.932443703085905,
+        "injuredPlayers": [
+          {
+            "playerName": "Landry Shamet",
+            "pie": 0.081
+          },
+          {
+            "playerName": "Miles McBride",
+            "pie": 0.081
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500373",
+    "gameDate": "2025-12-18",
+    "gameTime": "7:30 pm ET",
+    "watchability": 47.03,
+    "teamQuality": 43.25,
+    "competitiveness": 73.05,
+    "netRatingTotal": -2.7,
+    "netRatingDiff": 8.3,
+    "healthAdj": -14.1,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612751,
+        "abbrev": "BKN",
+        "netRating": -5.5,
+        "defRating": 117.6,
+        "offRating": 112.1,
+        "wins": 7,
+        "losses": 19,
+        "netRatingRank": 24,
+        "defRatingRank": 25,
+        "offRatingRank": 25,
+        "health": 0.7665306122448979,
+        "injuredPlayers": [
+          {
+            "playerName": "Cam Thomas",
+            "pie": 0.095
+          },
+          {
+            "playerName": "Drake Powell",
+            "pie": 0.079
+          },
+          {
+            "playerName": "E.J. Liddell",
+            "pie": 0.112
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612748,
+        "abbrev": "MIA",
+        "netRating": 2.8,
+        "defRating": 111.2,
+        "offRating": 114.0,
+        "wins": 15,
+        "losses": 12,
+        "netRatingRank": 10,
+        "defRatingRank": 3,
+        "offRatingRank": 17,
+        "health": 0.6695652173913044,
+        "injuredPlayers": [
+          {
+            "playerName": "Andrew Wiggins",
+            "pie": 0.084
+          },
+          {
+            "playerName": "Davion Mitchell",
+            "pie": 0.091
+          },
+          {
+            "playerName": "Nikola Jovi\u0107",
+            "pie": 0.068
+          },
+          {
+            "playerName": "Pelle Larsson",
+            "pie": 0.075
+          },
+          {
+            "playerName": "Tyler Herro",
+            "pie": 0.138
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500374",
+    "gameDate": "2025-12-18",
+    "gameTime": "8:00 pm ET",
+    "watchability": 56.97,
+    "teamQuality": 46.75,
+    "competitiveness": 80.19,
+    "netRatingTotal": -1.3,
+    "netRatingDiff": 6.1,
+    "healthAdj": -9.85,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612749,
+        "abbrev": "MIL",
+        "netRating": -3.7,
+        "defRating": 116.9,
+        "offRating": 113.2,
+        "wins": 11,
+        "losses": 17,
+        "netRatingRank": 22,
+        "defRatingRank": 21,
+        "offRatingRank": 20,
+        "health": 0.7807971014492754,
+        "injuredPlayers": [
+          {
+            "playerName": "Giannis Antetokounmpo",
+            "pie": 0.224
+          },
+          {
+            "playerName": "Kyle Kuzma",
+            "pie": 0.097
+          },
+          {
+            "playerName": "Taurean Prince",
+            "pie": 0.042
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612761,
+        "abbrev": "TOR",
+        "netRating": 2.4,
+        "defRating": 112.4,
+        "offRating": 114.8,
+        "wins": 17,
+        "losses": 11,
+        "netRatingRank": 11,
+        "defRatingRank": 7,
+        "offRatingRank": 13,
+        "health": 0.8252964426877469,
+        "injuredPlayers": [
+          {
+            "playerName": "Jakob Poeltl",
+            "pie": 0.108
+          },
+          {
+            "playerName": "RJ Barrett",
+            "pie": 0.113
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500375",
+    "gameDate": "2025-12-18",
+    "gameTime": "8:00 pm ET",
+    "watchability": 46.43,
+    "teamQuality": 53.5,
+    "competitiveness": 45.45,
+    "netRatingTotal": 1.4,
+    "netRatingDiff": 16.8,
+    "healthAdj": -2.24,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612740,
+        "abbrev": "NOP",
+        "netRating": -7.7,
+        "defRating": 119.7,
+        "offRating": 111.9,
+        "wins": 6,
+        "losses": 22,
+        "netRatingRank": 28,
+        "defRatingRank": 28,
+        "offRatingRank": 26,
+        "health": 1.0,
+        "injuredPlayers": []
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612745,
+        "abbrev": "HOU",
+        "netRating": 9.1,
+        "defRating": 112.1,
+        "offRating": 121.2,
+        "wins": 16,
+        "losses": 8,
+        "netRatingRank": 3,
+        "defRatingRank": 5,
+        "offRatingRank": 3,
+        "health": 0.910204081632653,
+        "injuredPlayers": [
+          {
+            "playerName": "Tari Eason",
+            "pie": 0.11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500376",
+    "gameDate": "2025-12-18",
+    "gameTime": "8:30 pm ET",
+    "watchability": 56.7,
+    "teamQuality": 56.75,
+    "competitiveness": 69.81,
+    "netRatingTotal": 2.7,
+    "netRatingDiff": 9.3,
+    "healthAdj": -7.88,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612742,
+        "abbrev": "DAL",
+        "netRating": -3.3,
+        "defRating": 112.2,
+        "offRating": 108.9,
+        "wins": 11,
+        "losses": 17,
+        "netRatingRank": 21,
+        "defRatingRank": 6,
+        "offRatingRank": 27,
+        "health": 0.7619047619047619,
+        "injuredPlayers": [
+          {
+            "playerName": "Anthony Davis",
+            "pie": 0.159
+          },
+          {
+            "playerName": "Dereck Lively II",
+            "pie": 0.094
+          },
+          {
+            "playerName": "Klay Thompson",
+            "pie": 0.077
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612765,
+        "abbrev": "DET",
+        "netRating": 6.0,
+        "defRating": 110.9,
+        "offRating": 116.9,
+        "wins": 21,
+        "losses": 6,
+        "netRatingRank": 5,
+        "defRatingRank": 2,
+        "offRatingRank": 9,
+        "health": 0.9227836034318398,
+        "injuredPlayers": [
+          {
+            "playerName": "Caris LeVert",
+            "pie": 0.091
+          },
+          {
+            "playerName": "Duncan Robinson",
+            "pie": 0.07100000000000001
+          },
+          {
+            "playerName": "Isaac Jones",
+            "pie": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500377",
+    "gameDate": "2025-12-18",
+    "gameTime": "9:00 pm ET",
+    "watchability": 68.18,
+    "teamQuality": 81.0,
+    "competitiveness": 79.22,
+    "netRatingTotal": 12.4,
+    "netRatingDiff": 6.4,
+    "healthAdj": -11.76,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612743,
+        "abbrev": "DEN",
+        "netRating": 9.4,
+        "defRating": 115.0,
+        "offRating": 124.4,
+        "wins": 20,
+        "losses": 6,
+        "netRatingRank": 2,
+        "defRatingRank": 17,
+        "offRatingRank": 1,
+        "health": 0.8428571428571429,
+        "injuredPlayers": [
+          {
+            "playerName": "Aaron Gordon",
+            "pie": 0.13
+          },
+          {
+            "playerName": "Christian Braun",
+            "pie": 0.078
+          },
+          {
+            "playerName": "Peyton Watson",
+            "pie": 0.078
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
         "id": 1610612753,
         "abbrev": "ORL",
-        "netRating": 3.6,
-        "defRating": 112.1,
-        "offRating": 115.7,
+        "netRating": 3.0,
+        "defRating": 112.5,
+        "offRating": 115.6,
         "wins": 15,
-        "losses": 11,
+        "losses": 12,
         "netRatingRank": 9,
-        "defRatingRank": 6,
-        "offRatingRank": 11,
-        "health": 0.9001406469760901,
+        "defRatingRank": 8,
+        "offRatingRank": 10,
+        "health": 0.6869257950530036,
         "injuredPlayers": [
           {
             "playerName": "Franz Wagner",
             "pie": 0.14200000000000002
+          },
+          {
+            "playerName": "Jalen Suggs",
+            "pie": 0.123
+          },
+          {
+            "playerName": "Jonathan Isaac",
+            "pie": 0.092
+          },
+          {
+            "playerName": "Tristan da Silva",
+            "pie": 0.08600000000000001
           }
         ]
       }
@@ -509,12 +748,12 @@
     "gameID": "22500378",
     "gameDate": "2025-12-18",
     "gameTime": "9:00 pm ET",
-    "watchability": 76.38,
-    "teamQuality": 53.64,
-    "competitiveness": 94.7,
-    "netRatingTotal": 1.6,
-    "netRatingDiff": 1.6,
-    "healthAdj": -1.9,
+    "watchability": 68.63,
+    "teamQuality": 53.75,
+    "competitiveness": 95.13,
+    "netRatingTotal": 1.5,
+    "netRatingDiff": 1.5,
+    "healthAdj": -9.95,
     "b2bAdj": 0,
     "teams": [
       {
@@ -523,34 +762,55 @@
         "id": 1610612756,
         "abbrev": "PHX",
         "netRating": 0.0,
-        "defRating": 114.2,
-        "offRating": 114.2,
-        "wins": 14,
+        "defRating": 113.6,
+        "offRating": 113.6,
+        "wins": 15,
         "losses": 12,
         "netRatingRank": 17,
-        "defRatingRank": 16,
-        "offRatingRank": 16,
-        "health": 1.0,
-        "injuredPlayers": []
+        "defRatingRank": 15,
+        "offRatingRank": 19,
+        "health": 0.7226137091607944,
+        "injuredPlayers": [
+          {
+            "playerName": "Grayson Allen",
+            "pie": 0.096
+          },
+          {
+            "playerName": "Isaiah Livers",
+            "pie": 0.048
+          },
+          {
+            "playerName": "Jalen Green",
+            "pie": 0.154
+          },
+          {
+            "playerName": "Koby Brea",
+            "pie": 0.135
+          }
+        ]
       },
       {
         "isHome": false,
         "isb2b": false,
         "id": 1610612744,
         "abbrev": "GSW",
-        "netRating": 1.6,
-        "defRating": 111.8,
-        "offRating": 113.4,
+        "netRating": 1.5,
+        "defRating": 111.4,
+        "offRating": 112.8,
         "wins": 13,
-        "losses": 14,
-        "netRatingRank": 13,
-        "defRatingRank": 5,
+        "losses": 15,
+        "netRatingRank": 14,
+        "defRatingRank": 4,
         "offRatingRank": 21,
-        "health": 0.9241516966067863,
+        "health": 0.8795180722891567,
         "injuredPlayers": [
           {
-            "playerName": "Pat Spencer",
-            "pie": 0.114
+            "playerName": "Al Horford",
+            "pie": 0.068
+          },
+          {
+            "playerName": "Seth Curry",
+            "pie": 0.112
           }
         ]
       }
@@ -560,12 +820,12 @@
     "gameID": "22500379",
     "gameDate": "2025-12-18",
     "gameTime": "9:00 pm ET",
-    "watchability": 53.27,
-    "teamQuality": 37.95,
-    "competitiveness": 72.52,
-    "netRatingTotal": -5.3,
-    "netRatingDiff": 8.3,
-    "healthAdj": -5.42,
+    "watchability": 47.29,
+    "teamQuality": 37.0,
+    "competitiveness": 72.08,
+    "netRatingTotal": -5.2,
+    "netRatingDiff": 8.6,
+    "healthAdj": -10.75,
     "b2bAdj": 0,
     "teams": [
       {
@@ -573,16 +833,20 @@
         "isb2b": false,
         "id": 1610612762,
         "abbrev": "UTA",
-        "netRating": -6.8,
-        "defRating": 120.5,
-        "offRating": 113.6,
+        "netRating": -6.9,
+        "defRating": 121.2,
+        "offRating": 114.3,
         "wins": 10,
-        "losses": 15,
+        "losses": 16,
         "netRatingRank": 26,
         "defRatingRank": 29,
-        "offRatingRank": 19,
-        "health": 0.8922716627634661,
+        "offRatingRank": 16,
+        "health": 0.7786499215070644,
         "injuredPlayers": [
+          {
+            "playerName": "Lauri Markkanen",
+            "pie": 0.14400000000000002
+          },
           {
             "playerName": "Walker Kessler",
             "pie": 0.138
@@ -594,19 +858,27 @@
         "isb2b": false,
         "id": 1610612747,
         "abbrev": "LAL",
-        "netRating": 1.5,
-        "defRating": 116.5,
-        "offRating": 118.0,
-        "wins": 18,
+        "netRating": 1.7000000000000002,
+        "defRating": 117.1,
+        "offRating": 118.8,
+        "wins": 19,
         "losses": 7,
-        "netRatingRank": 14,
-        "defRatingRank": 20,
-        "offRatingRank": 8,
-        "health": 0.8908205841446453,
+        "netRatingRank": 13,
+        "defRatingRank": 22,
+        "offRatingRank": 6,
+        "health": 0.7911702873160477,
         "injuredPlayers": [
           {
             "playerName": "Austin Reaves",
             "pie": 0.157
+          },
+          {
+            "playerName": "Deandre Ayton",
+            "pie": 0.124
+          },
+          {
+            "playerName": "Gabe Vincent",
+            "pie": 0.017
           }
         ]
       }
@@ -616,12 +888,12 @@
     "gameID": "22500380",
     "gameDate": "2025-12-18",
     "gameTime": "10:00 pm ET",
-    "watchability": 43.58,
-    "teamQuality": 17.27,
-    "competitiveness": 74.17,
-    "netRatingTotal": -14.4,
-    "netRatingDiff": 7.8,
-    "healthAdj": -7.83,
+    "watchability": 39.16,
+    "teamQuality": 15.5,
+    "competitiveness": 75.97,
+    "netRatingTotal": -13.8,
+    "netRatingDiff": 7.4,
+    "healthAdj": -12.63,
     "b2bAdj": 0,
     "teams": [
       {
@@ -629,19 +901,23 @@
         "isb2b": false,
         "id": 1610612757,
         "abbrev": "POR",
-        "netRating": -3.3,
-        "defRating": 117.2,
-        "offRating": 113.8,
-        "wins": 10,
+        "netRating": -3.2,
+        "defRating": 117.1,
+        "offRating": 113.9,
+        "wins": 11,
         "losses": 16,
-        "netRatingRank": 19,
-        "defRatingRank": 22,
+        "netRatingRank": 20,
+        "defRatingRank": 23,
         "offRatingRank": 18,
-        "health": 0.8307464892830747,
+        "health": 0.736255572065379,
         "injuredPlayers": [
           {
             "playerName": "Blake Wesley",
             "pie": 0.081
+          },
+          {
+            "playerName": "Jrue Holiday",
+            "pie": 0.126
           },
           {
             "playerName": "Matisse Thybulle",
@@ -654,16 +930,20 @@
         "isb2b": false,
         "id": 1610612758,
         "abbrev": "SAC",
-        "netRating": -11.1,
-        "defRating": 119.6,
-        "offRating": 108.5,
+        "netRating": -10.6,
+        "defRating": 119.5,
+        "offRating": 108.8,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 29,
         "defRatingRank": 27,
-        "offRatingRank": 29,
-        "health": 0.8560209424083769,
+        "offRatingRank": 28,
+        "health": 0.7587085811384877,
         "injuredPlayers": [
+          {
+            "playerName": "Domantas Sabonis",
+            "pie": 0.11900000000000001
+          },
           {
             "playerName": "Drew Eubanks",
             "pie": 0.07200000000000001
@@ -680,12 +960,12 @@
     "gameID": "22500381",
     "gameDate": "2025-12-19",
     "gameTime": "7:00 pm ET",
-    "watchability": 75.88,
-    "teamQuality": 69.09,
-    "competitiveness": 88.74,
-    "netRatingTotal": 8.4,
-    "netRatingDiff": 3.4,
-    "healthAdj": -0.0,
+    "watchability": 69.4,
+    "teamQuality": 71.75,
+    "competitiveness": 89.94,
+    "netRatingTotal": 8.7,
+    "netRatingDiff": 3.1,
+    "healthAdj": -8.26,
     "b2bAdj": -5,
     "teams": [
       {
@@ -709,16 +989,37 @@
         "isb2b": true,
         "id": 1610612748,
         "abbrev": "MIA",
-        "netRating": 2.5,
-        "defRating": 111.8,
-        "offRating": 114.3,
-        "wins": 14,
+        "netRating": 2.8,
+        "defRating": 111.2,
+        "offRating": 114.0,
+        "wins": 15,
         "losses": 12,
-        "netRatingRank": 11,
-        "defRatingRank": 4,
-        "offRatingRank": 15,
-        "health": 1.0,
-        "injuredPlayers": []
+        "netRatingRank": 10,
+        "defRatingRank": 3,
+        "offRatingRank": 17,
+        "health": 0.6695652173913044,
+        "injuredPlayers": [
+          {
+            "playerName": "Andrew Wiggins",
+            "pie": 0.084
+          },
+          {
+            "playerName": "Davion Mitchell",
+            "pie": 0.091
+          },
+          {
+            "playerName": "Nikola Jovi\u0107",
+            "pie": 0.068
+          },
+          {
+            "playerName": "Pelle Larsson",
+            "pie": 0.075
+          },
+          {
+            "playerName": "Tyler Herro",
+            "pie": 0.138
+          }
+        ]
       }
     ]
   },
@@ -726,12 +1027,12 @@
     "gameID": "22500382",
     "gameDate": "2025-12-19",
     "gameTime": "7:00 pm ET",
-    "watchability": 67.65,
-    "teamQuality": 71.82,
-    "competitiveness": 74.83,
-    "netRatingTotal": 9.6,
-    "netRatingDiff": 7.6,
-    "healthAdj": -0.98,
+    "watchability": 62.53,
+    "teamQuality": 73.5,
+    "competitiveness": 75.97,
+    "netRatingTotal": 9.4,
+    "netRatingDiff": 7.4,
+    "healthAdj": -7.45,
     "b2bAdj": -5,
     "teams": [
       {
@@ -739,18 +1040,22 @@
         "isb2b": true,
         "id": 1610612752,
         "abbrev": "NYK",
-        "netRating": 8.6,
+        "netRating": 8.4,
         "defRating": 113.3,
-        "offRating": 122.0,
-        "wins": 18,
+        "offRating": 121.7,
+        "wins": 19,
         "losses": 7,
         "netRatingRank": 4,
         "defRatingRank": 11,
         "offRatingRank": 2,
-        "health": 0.9609450337512054,
+        "health": 0.932443703085905,
         "injuredPlayers": [
           {
             "playerName": "Landry Shamet",
+            "pie": 0.081
+          },
+          {
+            "playerName": "Miles McBride",
             "pie": 0.081
           }
         ]
@@ -766,10 +1071,23 @@
         "wins": 14,
         "losses": 11,
         "netRatingRank": 15,
-        "defRatingRank": 12,
-        "offRatingRank": 14,
-        "health": 1.0,
-        "injuredPlayers": []
+        "defRatingRank": 13,
+        "offRatingRank": 15,
+        "health": 0.7693950177935943,
+        "injuredPlayers": [
+          {
+            "playerName": "Joel Embiid",
+            "pie": 0.131
+          },
+          {
+            "playerName": "Kelly Oubre Jr.",
+            "pie": 0.09
+          },
+          {
+            "playerName": "Trendon Watford",
+            "pie": 0.10300000000000001
+          }
+        ]
       }
     ]
   },
@@ -777,12 +1095,12 @@
     "gameID": "22500383",
     "gameDate": "2025-12-19",
     "gameTime": "7:30 pm ET",
-    "watchability": 69.73,
-    "teamQuality": 60.68,
-    "competitiveness": 87.75,
-    "netRatingTotal": 4.7,
-    "netRatingDiff": 3.7,
-    "healthAdj": -2.2,
+    "watchability": 65.06,
+    "teamQuality": 63.0,
+    "competitiveness": 84.42,
+    "netRatingTotal": 5.2,
+    "netRatingDiff": 4.8,
+    "healthAdj": -5.79,
     "b2bAdj": -5,
     "teams": [
       {
@@ -790,19 +1108,27 @@
         "isb2b": true,
         "id": 1610612737,
         "abbrev": "ATL",
-        "netRating": 0.5,
-        "defRating": 114.0,
-        "offRating": 114.5,
+        "netRating": 0.2,
+        "defRating": 114.5,
+        "offRating": 114.8,
         "wins": 15,
-        "losses": 12,
+        "losses": 13,
         "netRatingRank": 16,
-        "defRatingRank": 15,
-        "offRatingRank": 13,
-        "health": 0.9121578612348822,
+        "defRatingRank": 16,
+        "offRatingRank": 12,
+        "health": 0.7683397683397682,
         "injuredPlayers": [
           {
             "playerName": "Kristaps Porzi\u0146\u0123is",
             "pie": 0.138
+          },
+          {
+            "playerName": "N'Faly Dante",
+            "pie": 0.116
+          },
+          {
+            "playerName": "Trae Young",
+            "pie": 0.106
           }
         ]
       },
@@ -811,13 +1137,13 @@
         "isb2b": false,
         "id": 1610612759,
         "abbrev": "SAS",
-        "netRating": 4.2,
-        "defRating": 113.8,
-        "offRating": 118.0,
-        "wins": 18,
+        "netRating": 5.0,
+        "defRating": 113.1,
+        "offRating": 118.1,
+        "wins": 19,
         "losses": 7,
-        "netRatingRank": 8,
-        "defRatingRank": 14,
+        "netRatingRank": 7,
+        "defRatingRank": 10,
         "offRatingRank": 7,
         "health": 1.0,
         "injuredPlayers": []
@@ -828,12 +1154,12 @@
     "gameID": "22500384",
     "gameDate": "2025-12-19",
     "gameTime": "7:30 pm ET",
-    "watchability": 59.18,
-    "teamQuality": 44.09,
-    "competitiveness": 73.51,
-    "netRatingTotal": -2.6,
-    "netRatingDiff": 8.0,
-    "healthAdj": -2.56,
+    "watchability": 57.76,
+    "teamQuality": 43.75,
+    "competitiveness": 78.9,
+    "netRatingTotal": -2.5,
+    "netRatingDiff": 6.5,
+    "healthAdj": -7.07,
     "b2bAdj": 0,
     "teams": [
       {
@@ -841,16 +1167,24 @@
         "isb2b": false,
         "id": 1610612739,
         "abbrev": "CLE",
-        "netRating": 2.7,
-        "defRating": 113.2,
-        "offRating": 115.8,
+        "netRating": 2.0,
+        "defRating": 113.4,
+        "offRating": 115.4,
         "wins": 15,
-        "losses": 12,
-        "netRatingRank": 10,
-        "defRatingRank": 9,
-        "offRatingRank": 10,
-        "health": 0.8306451612903226,
+        "losses": 13,
+        "netRatingRank": 12,
+        "defRatingRank": 14,
+        "offRatingRank": 11,
+        "health": 0.6507828454731109,
         "injuredPlayers": [
+          {
+            "playerName": "Craig Porter Jr.",
+            "pie": 0.10300000000000001
+          },
+          {
+            "playerName": "Donovan Mitchell",
+            "pie": 0.158
+          },
           {
             "playerName": "Evan Mobley",
             "pie": 0.13
@@ -870,15 +1204,15 @@
         "isb2b": false,
         "id": 1610612741,
         "abbrev": "CHI",
-        "netRating": -5.3,
-        "defRating": 117.4,
-        "offRating": 112.1,
-        "wins": 10,
+        "netRating": -4.5,
+        "defRating": 116.9,
+        "offRating": 112.3,
+        "wins": 11,
         "losses": 15,
-        "netRatingRank": 24,
-        "defRatingRank": 24,
-        "offRatingRank": 25,
-        "health": 1.067043048694425,
+        "netRatingRank": 23,
+        "defRatingRank": 20,
+        "offRatingRank": 23,
+        "health": 1.0662944870900208,
         "injuredPlayers": [
           {
             "playerName": "Noa Essengue",
@@ -892,12 +1226,12 @@
     "gameID": "22500385",
     "gameDate": "2025-12-19",
     "gameTime": "9:30 pm ET",
-    "watchability": 76.23,
-    "teamQuality": 98.18,
-    "competitiveness": 61.59,
-    "netRatingTotal": 21.2,
-    "netRatingDiff": 11.6,
-    "healthAdj": -0.0,
+    "watchability": 72.76,
+    "teamQuality": 100.0,
+    "competitiveness": 60.71,
+    "netRatingTotal": 20.9,
+    "netRatingDiff": 12.1,
+    "healthAdj": -3.67,
     "b2bAdj": 0,
     "teams": [
       {
@@ -905,32 +1239,46 @@
         "isb2b": false,
         "id": 1610612750,
         "abbrev": "MIN",
-        "netRating": 4.8,
-        "defRating": 113.2,
-        "offRating": 118.0,
+        "netRating": 4.4,
+        "defRating": 113.0,
+        "offRating": 117.4,
         "wins": 17,
-        "losses": 9,
-        "netRatingRank": 7,
-        "defRatingRank": 10,
-        "offRatingRank": 6,
-        "health": 1.0,
-        "injuredPlayers": []
+        "losses": 10,
+        "netRatingRank": 8,
+        "defRatingRank": 9,
+        "offRatingRank": 8,
+        "health": 0.9085173501577286,
+        "injuredPlayers": [
+          {
+            "playerName": "Jaylen Clark",
+            "pie": 0.049
+          },
+          {
+            "playerName": "Mike Conley",
+            "pie": 0.067
+          }
+        ]
       },
       {
         "isHome": false,
         "isb2b": false,
         "id": 1610612760,
         "abbrev": "OKC",
-        "netRating": 16.4,
-        "defRating": 103.4,
-        "offRating": 119.8,
-        "wins": 24,
+        "netRating": 16.5,
+        "defRating": 103.0,
+        "offRating": 119.5,
+        "wins": 25,
         "losses": 2,
         "netRatingRank": 1,
         "defRatingRank": 1,
         "offRatingRank": 5,
-        "health": 1.0,
-        "injuredPlayers": []
+        "health": 0.9447086801426873,
+        "injuredPlayers": [
+          {
+            "playerName": "Jaylin Williams",
+            "pie": 0.093
+          }
+        ]
       }
     ]
   },
@@ -938,12 +1286,12 @@
     "gameID": "22500386",
     "gameDate": "2025-12-20",
     "gameTime": "5:00 pm ET",
-    "watchability": 93.61,
-    "teamQuality": 93.18,
-    "competitiveness": 98.68,
-    "netRatingTotal": 19.0,
-    "netRatingDiff": 0.4,
-    "healthAdj": -2.87,
+    "watchability": 92.81,
+    "teamQuality": 96.25,
+    "competitiveness": 99.03,
+    "netRatingTotal": 18.5,
+    "netRatingDiff": 0.3,
+    "healthAdj": -5.1,
     "b2bAdj": 0,
     "teams": [
       {
@@ -951,15 +1299,15 @@
         "isb2b": false,
         "id": 1610612743,
         "abbrev": "DEN",
-        "netRating": 9.3,
-        "defRating": 115.1,
+        "netRating": 9.4,
+        "defRating": 115.0,
         "offRating": 124.4,
-        "wins": 19,
+        "wins": 20,
         "losses": 6,
-        "netRatingRank": 3,
+        "netRatingRank": 2,
         "defRatingRank": 17,
         "offRatingRank": 1,
-        "health": 0.8850828729281768,
+        "health": 0.8857142857142858,
         "injuredPlayers": [
           {
             "playerName": "Aaron Gordon",
@@ -976,16 +1324,21 @@
         "isb2b": false,
         "id": 1610612745,
         "abbrev": "HOU",
-        "netRating": 9.7,
-        "defRating": 111.6,
-        "offRating": 121.4,
+        "netRating": 9.1,
+        "defRating": 112.1,
+        "offRating": 121.2,
         "wins": 16,
-        "losses": 7,
-        "netRatingRank": 2,
-        "defRatingRank": 3,
+        "losses": 8,
+        "netRatingRank": 3,
+        "defRatingRank": 5,
         "offRatingRank": 3,
-        "health": 1.0,
-        "injuredPlayers": []
+        "health": 0.910204081632653,
+        "injuredPlayers": [
+          {
+            "playerName": "Tari Eason",
+            "pie": 0.11
+          }
+        ]
       }
     ]
   },
@@ -993,12 +1346,12 @@
     "gameID": "22500387",
     "gameDate": "2025-12-20",
     "gameTime": "7:00 pm ET",
-    "watchability": 62.1,
-    "teamQuality": 44.32,
-    "competitiveness": 85.1,
-    "netRatingTotal": -2.5,
-    "netRatingDiff": 4.5,
-    "healthAdj": -1.69,
+    "watchability": 59.19,
+    "teamQuality": 44.25,
+    "competitiveness": 86.04,
+    "netRatingTotal": -2.3,
+    "netRatingDiff": 4.3,
+    "healthAdj": -5.13,
     "b2bAdj": -5,
     "teams": [
       {
@@ -1012,25 +1365,34 @@
         "wins": 14,
         "losses": 11,
         "netRatingRank": 15,
-        "defRatingRank": 12,
-        "offRatingRank": 14,
-        "health": 1.0,
-        "injuredPlayers": []
+        "defRatingRank": 13,
+        "offRatingRank": 15,
+        "health": 0.8626334519572953,
+        "injuredPlayers": [
+          {
+            "playerName": "Kelly Oubre Jr.",
+            "pie": 0.09
+          },
+          {
+            "playerName": "Trendon Watford",
+            "pie": 0.10300000000000001
+          }
+        ]
       },
       {
         "isHome": false,
         "isb2b": false,
         "id": 1610612742,
         "abbrev": "DAL",
-        "netRating": -3.5,
-        "defRating": 112.6,
-        "offRating": 109.1,
-        "wins": 10,
+        "netRating": -3.3,
+        "defRating": 112.2,
+        "offRating": 108.9,
+        "wins": 11,
         "losses": 17,
-        "netRatingRank": 20,
-        "defRatingRank": 8,
-        "offRatingRank": 28,
-        "health": 0.9323741007194244,
+        "netRatingRank": 21,
+        "defRatingRank": 6,
+        "offRatingRank": 27,
+        "health": 0.9321789321789321,
         "injuredPlayers": [
           {
             "playerName": "Dereck Lively II",
@@ -1044,12 +1406,12 @@
     "gameID": "22500388",
     "gameDate": "2025-12-20",
     "gameTime": "7:00 pm ET",
-    "watchability": 75.01,
-    "teamQuality": 68.41,
-    "competitiveness": 87.75,
-    "netRatingTotal": 8.1,
-    "netRatingDiff": 3.7,
-    "healthAdj": -0.0,
+    "watchability": 74.25,
+    "teamQuality": 70.75,
+    "competitiveness": 88.64,
+    "netRatingTotal": 8.3,
+    "netRatingDiff": 3.5,
+    "healthAdj": -2.23,
     "b2bAdj": -5,
     "teams": [
       {
@@ -1057,16 +1419,21 @@
         "isb2b": false,
         "id": 1610612761,
         "abbrev": "TOR",
-        "netRating": 2.2,
-        "defRating": 112.6,
+        "netRating": 2.4,
+        "defRating": 112.4,
         "offRating": 114.8,
-        "wins": 16,
+        "wins": 17,
         "losses": 11,
-        "netRatingRank": 12,
+        "netRatingRank": 11,
         "defRatingRank": 7,
-        "offRatingRank": 12,
-        "health": 1.0,
-        "injuredPlayers": []
+        "offRatingRank": 13,
+        "health": 0.9106719367588934,
+        "injuredPlayers": [
+          {
+            "playerName": "RJ Barrett",
+            "pie": 0.113
+          }
+        ]
       },
       {
         "isHome": false,
@@ -1090,12 +1457,12 @@
     "gameID": "22500389",
     "gameDate": "2025-12-20",
     "gameTime": "7:00 pm ET",
-    "watchability": 63.24,
-    "teamQuality": 13.41,
-    "competitiveness": 99.01,
-    "netRatingTotal": -16.1,
-    "netRatingDiff": 0.3,
-    "healthAdj": -1.53,
+    "watchability": 61.86,
+    "teamQuality": 11.5,
+    "competitiveness": 100.0,
+    "netRatingTotal": -15.4,
+    "netRatingDiff": 0.0,
+    "healthAdj": -2.74,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1103,10 +1470,10 @@
         "isb2b": false,
         "id": 1610612740,
         "abbrev": "NOP",
-        "netRating": -8.2,
+        "netRating": -7.7,
         "defRating": 119.7,
-        "offRating": 111.5,
-        "wins": 5,
+        "offRating": 111.9,
+        "wins": 6,
         "losses": 22,
         "netRatingRank": 28,
         "defRatingRank": 28,
@@ -1119,16 +1486,20 @@
         "isb2b": false,
         "id": 1610612754,
         "abbrev": "IND",
-        "netRating": -7.9,
-        "defRating": 116.1,
-        "offRating": 108.2,
+        "netRating": -7.7,
+        "defRating": 116.0,
+        "offRating": 108.4,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 27,
         "defRatingRank": 19,
         "offRatingRank": 30,
-        "health": 0.9388122375524894,
+        "health": 0.8905021173623714,
         "injuredPlayers": [
+          {
+            "playerName": "Aaron Nesmith",
+            "pie": 0.079
+          },
           {
             "playerName": "Obi Toppin",
             "pie": 0.10200000000000001
@@ -1141,11 +1512,11 @@
     "gameID": "22500390",
     "gameDate": "2025-12-20",
     "gameTime": "7:30 pm ET",
-    "watchability": 63.08,
-    "teamQuality": 56.36,
-    "competitiveness": 67.55,
-    "netRatingTotal": 2.8,
-    "netRatingDiff": 9.8,
+    "watchability": 65.17,
+    "teamQuality": 57.25,
+    "competitiveness": 70.45,
+    "netRatingTotal": 2.9,
+    "netRatingDiff": 9.1,
     "healthAdj": -0.0,
     "b2bAdj": 0,
     "teams": [
@@ -1154,11 +1525,11 @@
         "isb2b": false,
         "id": 1610612765,
         "abbrev": "DET",
-        "netRating": 6.3,
-        "defRating": 111.2,
-        "offRating": 117.4,
+        "netRating": 6.0,
+        "defRating": 110.9,
+        "offRating": 116.9,
         "wins": 21,
-        "losses": 5,
+        "losses": 6,
         "netRatingRank": 5,
         "defRatingRank": 2,
         "offRatingRank": 9,
@@ -1170,14 +1541,14 @@
         "isb2b": false,
         "id": 1610612766,
         "abbrev": "CHA",
-        "netRating": -3.5,
-        "defRating": 117.3,
-        "offRating": 113.8,
-        "wins": 8,
+        "netRating": -3.1,
+        "defRating": 117.5,
+        "offRating": 114.4,
+        "wins": 9,
         "losses": 18,
-        "netRatingRank": 21,
-        "defRatingRank": 23,
-        "offRatingRank": 17,
+        "netRatingRank": 19,
+        "defRatingRank": 24,
+        "offRatingRank": 14,
         "health": 1.0,
         "injuredPlayers": []
       }
@@ -1187,12 +1558,12 @@
     "gameID": "22500391",
     "gameDate": "2025-12-20",
     "gameTime": "8:00 pm ET",
-    "watchability": 36.61,
-    "teamQuality": 15.68,
-    "competitiveness": 58.61,
-    "netRatingTotal": -15.1,
-    "netRatingDiff": 12.5,
-    "healthAdj": -4.83,
+    "watchability": 28.94,
+    "teamQuality": 11.5,
+    "competitiveness": 57.14,
+    "netRatingTotal": -15.4,
+    "netRatingDiff": 13.2,
+    "healthAdj": -9.95,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1200,16 +1571,20 @@
         "isb2b": false,
         "id": 1610612763,
         "abbrev": "MEM",
-        "netRating": -1.3,
-        "defRating": 113.8,
-        "offRating": 112.4,
-        "wins": 12,
+        "netRating": -1.1,
+        "defRating": 113.3,
+        "offRating": 112.3,
+        "wins": 13,
         "losses": 14,
         "netRatingRank": 18,
-        "defRatingRank": 13,
+        "defRatingRank": 12,
         "offRatingRank": 24,
-        "health": 0.8068386322735452,
+        "health": 0.6715654952076677,
         "injuredPlayers": [
+          {
+            "playerName": "Ja Morant",
+            "pie": 0.107
+          },
           {
             "playerName": "Javon Small",
             "pie": 0.064
@@ -1217,6 +1592,10 @@
           {
             "playerName": "John Konchar",
             "pie": 0.101
+          },
+          {
+            "playerName": "Vince Williams Jr.",
+            "pie": 0.085
           },
           {
             "playerName": "Zach Edey",
@@ -1229,16 +1608,21 @@
         "isb2b": false,
         "id": 1610612764,
         "abbrev": "WAS",
-        "netRating": -13.8,
-        "defRating": 123.0,
-        "offRating": 109.2,
+        "netRating": -14.3,
+        "defRating": 122.9,
+        "offRating": 108.6,
         "wins": 4,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 30,
         "defRatingRank": 30,
-        "offRatingRank": 27,
-        "health": 1.0,
-        "injuredPlayers": []
+        "offRatingRank": 29,
+        "health": 0.9304482225656877,
+        "injuredPlayers": [
+          {
+            "playerName": "Corey Kispert",
+            "pie": 0.09
+          }
+        ]
       }
     ]
   },
@@ -1246,12 +1630,12 @@
     "gameID": "22500392",
     "gameDate": "2025-12-20",
     "gameTime": "8:30 pm ET",
-    "watchability": 78.28,
-    "teamQuality": 53.64,
-    "competitiveness": 94.7,
-    "netRatingTotal": 1.6,
-    "netRatingDiff": 1.6,
-    "healthAdj": -0.0,
+    "watchability": 73.1,
+    "teamQuality": 53.75,
+    "competitiveness": 95.13,
+    "netRatingTotal": 1.5,
+    "netRatingDiff": 1.5,
+    "healthAdj": -5.48,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1259,16 +1643,25 @@
         "isb2b": false,
         "id": 1610612744,
         "abbrev": "GSW",
-        "netRating": 1.6,
-        "defRating": 111.8,
-        "offRating": 113.4,
+        "netRating": 1.5,
+        "defRating": 111.4,
+        "offRating": 112.8,
         "wins": 13,
-        "losses": 14,
-        "netRatingRank": 13,
-        "defRatingRank": 5,
+        "losses": 15,
+        "netRatingRank": 14,
+        "defRatingRank": 4,
         "offRatingRank": 21,
-        "health": 1.0,
-        "injuredPlayers": []
+        "health": 0.8795180722891567,
+        "injuredPlayers": [
+          {
+            "playerName": "Al Horford",
+            "pie": 0.068
+          },
+          {
+            "playerName": "Seth Curry",
+            "pie": 0.112
+          }
+        ]
       },
       {
         "isHome": false,
@@ -1276,15 +1669,20 @@
         "id": 1610612756,
         "abbrev": "PHX",
         "netRating": 0.0,
-        "defRating": 114.2,
-        "offRating": 114.2,
-        "wins": 14,
+        "defRating": 113.6,
+        "offRating": 113.6,
+        "wins": 15,
         "losses": 12,
         "netRatingRank": 17,
-        "defRatingRank": 16,
-        "offRatingRank": 16,
-        "health": 1.0,
-        "injuredPlayers": []
+        "defRatingRank": 15,
+        "offRatingRank": 19,
+        "health": 0.9013452914798207,
+        "injuredPlayers": [
+          {
+            "playerName": "Jalen Green",
+            "pie": 0.154
+          }
+        ]
       }
     ]
   },
@@ -1292,12 +1690,12 @@
     "gameID": "22500393",
     "gameDate": "2025-12-20",
     "gameTime": "9:30 pm ET",
-    "watchability": 51.24,
-    "teamQuality": 42.73,
-    "competitiveness": 65.56,
-    "netRatingTotal": -3.2,
-    "netRatingDiff": 10.4,
-    "healthAdj": -5.19,
+    "watchability": 51.6,
+    "teamQuality": 40.25,
+    "competitiveness": 67.86,
+    "netRatingTotal": -3.9,
+    "netRatingDiff": 9.9,
+    "healthAdj": -5.22,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1305,15 +1703,15 @@
         "isb2b": false,
         "id": 1610612762,
         "abbrev": "UTA",
-        "netRating": -6.8,
-        "defRating": 120.5,
-        "offRating": 113.6,
+        "netRating": -6.9,
+        "defRating": 121.2,
+        "offRating": 114.3,
         "wins": 10,
-        "losses": 15,
+        "losses": 16,
         "netRatingRank": 26,
         "defRatingRank": 29,
-        "offRatingRank": 19,
-        "health": 0.8922716627634661,
+        "offRatingRank": 16,
+        "health": 0.891679748822606,
         "injuredPlayers": [
           {
             "playerName": "Walker Kessler",
@@ -1326,15 +1724,15 @@
         "isb2b": false,
         "id": 1610612753,
         "abbrev": "ORL",
-        "netRating": 3.6,
-        "defRating": 112.1,
-        "offRating": 115.7,
+        "netRating": 3.0,
+        "defRating": 112.5,
+        "offRating": 115.6,
         "wins": 15,
-        "losses": 11,
+        "losses": 12,
         "netRatingRank": 9,
-        "defRatingRank": 6,
-        "offRatingRank": 11,
-        "health": 0.9001406469760901,
+        "defRatingRank": 8,
+        "offRatingRank": 10,
+        "health": 0.8996466431095407,
         "injuredPlayers": [
           {
             "playerName": "Franz Wagner",
@@ -1348,12 +1746,12 @@
     "gameID": "22500394",
     "gameDate": "2025-12-20",
     "gameTime": "10:00 pm ET",
-    "watchability": 43.58,
-    "teamQuality": 17.27,
-    "competitiveness": 74.17,
-    "netRatingTotal": -14.4,
-    "netRatingDiff": 7.8,
-    "healthAdj": -7.83,
+    "watchability": 41.5,
+    "teamQuality": 15.5,
+    "competitiveness": 75.97,
+    "netRatingTotal": -13.8,
+    "netRatingDiff": 7.4,
+    "healthAdj": -10.29,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1361,16 +1759,20 @@
         "isb2b": false,
         "id": 1610612758,
         "abbrev": "SAC",
-        "netRating": -11.1,
-        "defRating": 119.6,
-        "offRating": 108.5,
+        "netRating": -10.6,
+        "defRating": 119.5,
+        "offRating": 108.8,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 29,
         "defRatingRank": 27,
-        "offRatingRank": 29,
-        "health": 0.8560209424083769,
+        "offRatingRank": 28,
+        "health": 0.7587085811384877,
         "injuredPlayers": [
+          {
+            "playerName": "Domantas Sabonis",
+            "pie": 0.11900000000000001
+          },
           {
             "playerName": "Drew Eubanks",
             "pie": 0.07200000000000001
@@ -1386,15 +1788,15 @@
         "isb2b": false,
         "id": 1610612757,
         "abbrev": "POR",
-        "netRating": -3.3,
-        "defRating": 117.2,
-        "offRating": 113.8,
-        "wins": 10,
+        "netRating": -3.2,
+        "defRating": 117.1,
+        "offRating": 113.9,
+        "wins": 11,
         "losses": 16,
-        "netRatingRank": 19,
-        "defRatingRank": 22,
+        "netRatingRank": 20,
+        "defRatingRank": 23,
         "offRatingRank": 18,
-        "health": 0.8307464892830747,
+        "health": 0.8298662704309063,
         "injuredPlayers": [
           {
             "playerName": "Blake Wesley",
@@ -1412,12 +1814,12 @@
     "gameID": "22500395",
     "gameDate": "2025-12-20",
     "gameTime": "10:30 pm ET",
-    "watchability": 60.48,
-    "teamQuality": 40.68,
-    "competitiveness": 76.49,
-    "netRatingTotal": -4.1,
-    "netRatingDiff": 7.1,
-    "healthAdj": -1.68,
+    "watchability": 55.66,
+    "teamQuality": 39.0,
+    "competitiveness": 74.68,
+    "netRatingTotal": -4.4,
+    "netRatingDiff": 7.8,
+    "healthAdj": -4.75,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1425,15 +1827,15 @@
         "isb2b": false,
         "id": 1610612746,
         "abbrev": "LAC",
-        "netRating": -5.6,
-        "defRating": 119.1,
-        "offRating": 113.6,
+        "netRating": -6.1,
+        "defRating": 118.9,
+        "offRating": 112.8,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 25,
         "defRatingRank": 26,
-        "offRatingRank": 20,
-        "health": 0.932699341623994,
+        "offRatingRank": 22,
+        "health": 0.9321033210332103,
         "injuredPlayers": [
           {
             "playerName": "Bradley Beal",
@@ -1450,16 +1852,25 @@
         "isb2b": false,
         "id": 1610612747,
         "abbrev": "LAL",
-        "netRating": 1.5,
-        "defRating": 116.5,
-        "offRating": 118.0,
-        "wins": 18,
+        "netRating": 1.7000000000000002,
+        "defRating": 117.1,
+        "offRating": 118.8,
+        "wins": 19,
         "losses": 7,
-        "netRatingRank": 14,
-        "defRatingRank": 20,
-        "offRatingRank": 8,
-        "health": 1.0,
-        "injuredPlayers": []
+        "netRatingRank": 13,
+        "defRatingRank": 22,
+        "offRatingRank": 6,
+        "health": 0.8780658724597057,
+        "injuredPlayers": [
+          {
+            "playerName": "Austin Reaves",
+            "pie": 0.157
+          },
+          {
+            "playerName": "Gabe Vincent",
+            "pie": 0.017
+          }
+        ]
       }
     ]
   },
@@ -1467,12 +1878,12 @@
     "gameID": "22500396",
     "gameDate": "2025-12-21",
     "gameTime": "3:30 pm ET",
-    "watchability": 63.59,
-    "teamQuality": 39.09,
-    "competitiveness": 80.79,
-    "netRatingTotal": -4.8,
-    "netRatingDiff": 5.8,
-    "healthAdj": -0.52,
+    "watchability": 65.98,
+    "teamQuality": 39.25,
+    "competitiveness": 84.74,
+    "netRatingTotal": -4.3,
+    "netRatingDiff": 4.7,
+    "healthAdj": -0.56,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1480,15 +1891,15 @@
         "isb2b": false,
         "id": 1610612737,
         "abbrev": "ATL",
-        "netRating": 0.5,
-        "defRating": 114.0,
-        "offRating": 114.5,
+        "netRating": 0.2,
+        "defRating": 114.5,
+        "offRating": 114.8,
         "wins": 15,
-        "losses": 12,
+        "losses": 13,
         "netRatingRank": 16,
-        "defRatingRank": 15,
-        "offRatingRank": 13,
-        "health": 0.9121578612348822,
+        "defRatingRank": 16,
+        "offRatingRank": 12,
+        "health": 0.9111969111969112,
         "injuredPlayers": [
           {
             "playerName": "Kristaps Porzi\u0146\u0123is",
@@ -1501,15 +1912,15 @@
         "isb2b": false,
         "id": 1610612741,
         "abbrev": "CHI",
-        "netRating": -5.3,
-        "defRating": 117.4,
-        "offRating": 112.1,
-        "wins": 10,
+        "netRating": -4.5,
+        "defRating": 116.9,
+        "offRating": 112.3,
+        "wins": 11,
         "losses": 15,
-        "netRatingRank": 24,
-        "defRatingRank": 24,
-        "offRatingRank": 25,
-        "health": 1.067043048694425,
+        "netRatingRank": 23,
+        "defRatingRank": 20,
+        "offRatingRank": 23,
+        "health": 1.0662944870900208,
         "injuredPlayers": [
           {
             "playerName": "Noa Essengue",
@@ -1523,12 +1934,12 @@
     "gameID": "22500397",
     "gameDate": "2025-12-21",
     "gameTime": "6:00 pm ET",
-    "watchability": 55.35,
-    "teamQuality": 42.95,
-    "competitiveness": 75.17,
+    "watchability": 54.57,
+    "teamQuality": 42.25,
+    "competitiveness": 74.35,
     "netRatingTotal": -3.1,
-    "netRatingDiff": 7.5,
-    "healthAdj": -1.93,
+    "netRatingDiff": 7.9,
+    "healthAdj": -1.94,
     "b2bAdj": -5,
     "teams": [
       {
@@ -1536,15 +1947,15 @@
         "isb2b": false,
         "id": 1610612751,
         "abbrev": "BKN",
-        "netRating": -5.3,
-        "defRating": 118.1,
-        "offRating": 112.8,
+        "netRating": -5.5,
+        "defRating": 117.6,
+        "offRating": 112.1,
         "wins": 7,
-        "losses": 18,
-        "netRatingRank": 23,
+        "losses": 19,
+        "netRatingRank": 24,
         "defRatingRank": 25,
-        "offRatingRank": 23,
-        "health": 0.9226384364820847,
+        "offRatingRank": 25,
+        "health": 0.9224489795918368,
         "injuredPlayers": [
           {
             "playerName": "Cam Thomas",
@@ -1557,14 +1968,14 @@
         "isb2b": true,
         "id": 1610612761,
         "abbrev": "TOR",
-        "netRating": 2.2,
-        "defRating": 112.6,
+        "netRating": 2.4,
+        "defRating": 112.4,
         "offRating": 114.8,
-        "wins": 16,
+        "wins": 17,
         "losses": 11,
-        "netRatingRank": 12,
+        "netRatingRank": 11,
         "defRatingRank": 7,
-        "offRatingRank": 12,
+        "offRatingRank": 13,
         "health": 1.0,
         "injuredPlayers": []
       }
@@ -1574,12 +1985,12 @@
     "gameID": "22500398",
     "gameDate": "2025-12-21",
     "gameTime": "6:00 pm ET",
-    "watchability": 77.0,
-    "teamQuality": 75.23,
-    "competitiveness": 79.8,
-    "netRatingTotal": 11.1,
-    "netRatingDiff": 6.1,
-    "healthAdj": -0.98,
+    "watchability": 76.01,
+    "teamQuality": 78.0,
+    "competitiveness": 81.82,
+    "netRatingTotal": 11.2,
+    "netRatingDiff": 5.6,
+    "healthAdj": -4.28,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1587,18 +1998,22 @@
         "isb2b": false,
         "id": 1610612752,
         "abbrev": "NYK",
-        "netRating": 8.6,
+        "netRating": 8.4,
         "defRating": 113.3,
-        "offRating": 122.0,
-        "wins": 18,
+        "offRating": 121.7,
+        "wins": 19,
         "losses": 7,
         "netRatingRank": 4,
         "defRatingRank": 11,
         "offRatingRank": 2,
-        "health": 0.9609450337512054,
+        "health": 0.932443703085905,
         "injuredPlayers": [
           {
             "playerName": "Landry Shamet",
+            "pie": 0.081
+          },
+          {
+            "playerName": "Miles McBride",
             "pie": 0.081
           }
         ]
@@ -1608,16 +2023,25 @@
         "isb2b": false,
         "id": 1610612748,
         "abbrev": "MIA",
-        "netRating": 2.5,
-        "defRating": 111.8,
-        "offRating": 114.3,
-        "wins": 14,
+        "netRating": 2.8,
+        "defRating": 111.2,
+        "offRating": 114.0,
+        "wins": 15,
         "losses": 12,
-        "netRatingRank": 11,
-        "defRatingRank": 4,
-        "offRatingRank": 15,
-        "health": 1.0,
-        "injuredPlayers": []
+        "netRatingRank": 10,
+        "defRatingRank": 3,
+        "offRatingRank": 17,
+        "health": 0.8963768115942029,
+        "injuredPlayers": [
+          {
+            "playerName": "Nikola Jovi\u0107",
+            "pie": 0.068
+          },
+          {
+            "playerName": "Pelle Larsson",
+            "pie": 0.075
+          }
+        ]
       }
     ]
   },
@@ -1625,12 +2049,12 @@
     "gameID": "22500399",
     "gameDate": "2025-12-21",
     "gameTime": "7:00 pm ET",
-    "watchability": 30.51,
-    "teamQuality": 28.18,
-    "competitiveness": 40.4,
-    "netRatingTotal": -9.6,
-    "netRatingDiff": 18.0,
-    "healthAdj": -0.0,
+    "watchability": 26.36,
+    "teamQuality": 26.75,
+    "competitiveness": 37.34,
+    "netRatingTotal": -9.3,
+    "netRatingDiff": 19.3,
+    "healthAdj": -1.74,
     "b2bAdj": -5,
     "teams": [
       {
@@ -1638,29 +2062,34 @@
         "isb2b": true,
         "id": 1610612764,
         "abbrev": "WAS",
-        "netRating": -13.8,
-        "defRating": 123.0,
-        "offRating": 109.2,
+        "netRating": -14.3,
+        "defRating": 122.9,
+        "offRating": 108.6,
         "wins": 4,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 30,
         "defRatingRank": 30,
-        "offRatingRank": 27,
-        "health": 1.0,
-        "injuredPlayers": []
+        "offRatingRank": 29,
+        "health": 0.9304482225656877,
+        "injuredPlayers": [
+          {
+            "playerName": "Corey Kispert",
+            "pie": 0.09
+          }
+        ]
       },
       {
         "isHome": false,
         "isb2b": false,
         "id": 1610612759,
         "abbrev": "SAS",
-        "netRating": 4.2,
-        "defRating": 113.8,
-        "offRating": 118.0,
-        "wins": 18,
+        "netRating": 5.0,
+        "defRating": 113.1,
+        "offRating": 118.1,
+        "wins": 19,
         "losses": 7,
-        "netRatingRank": 8,
-        "defRatingRank": 14,
+        "netRatingRank": 7,
+        "defRatingRank": 10,
         "offRatingRank": 7,
         "health": 1.0,
         "injuredPlayers": []
@@ -1671,12 +2100,12 @@
     "gameID": "22500400",
     "gameDate": "2025-12-21",
     "gameTime": "7:00 pm ET",
-    "watchability": 60.39,
-    "teamQuality": 52.73,
-    "competitiveness": 72.19,
-    "netRatingTotal": 1.2,
-    "netRatingDiff": 8.4,
-    "healthAdj": -4.01,
+    "watchability": 60.91,
+    "teamQuality": 51.75,
+    "competitiveness": 73.7,
+    "netRatingTotal": 0.7,
+    "netRatingDiff": 8.1,
+    "healthAdj": -4.02,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1684,14 +2113,14 @@
         "isb2b": false,
         "id": 1610612750,
         "abbrev": "MIN",
-        "netRating": 4.8,
-        "defRating": 113.2,
-        "offRating": 118.0,
+        "netRating": 4.4,
+        "defRating": 113.0,
+        "offRating": 117.4,
         "wins": 17,
-        "losses": 9,
-        "netRatingRank": 7,
-        "defRatingRank": 10,
-        "offRatingRank": 6,
+        "losses": 10,
+        "netRatingRank": 8,
+        "defRatingRank": 9,
+        "offRatingRank": 8,
         "health": 1.0,
         "injuredPlayers": []
       },
@@ -1700,15 +2129,15 @@
         "isb2b": false,
         "id": 1610612749,
         "abbrev": "MIL",
-        "netRating": -3.6,
-        "defRating": 117.0,
-        "offRating": 113.4,
+        "netRating": -3.7,
+        "defRating": 116.9,
+        "offRating": 113.2,
         "wins": 11,
-        "losses": 16,
+        "losses": 17,
         "netRatingRank": 22,
         "defRatingRank": 21,
-        "offRatingRank": 22,
-        "health": 0.8395657418576599,
+        "offRatingRank": 20,
+        "health": 0.8393719806763285,
         "injuredPlayers": [
           {
             "playerName": "Giannis Antetokounmpo",
@@ -1726,12 +2155,12 @@
     "gameID": "22500401",
     "gameDate": "2025-12-21",
     "gameTime": "10:00 pm ET",
-    "watchability": 28.8,
-    "teamQuality": 46.82,
-    "competitiveness": 31.13,
-    "netRatingTotal": -1.4,
-    "netRatingDiff": 20.8,
-    "healthAdj": -3.6,
+    "watchability": 29.09,
+    "teamQuality": 46.25,
+    "competitiveness": 36.04,
+    "netRatingTotal": -1.5,
+    "netRatingDiff": 19.7,
+    "healthAdj": -6.03,
     "b2bAdj": -5,
     "teams": [
       {
@@ -1739,16 +2168,20 @@
         "isb2b": true,
         "id": 1610612758,
         "abbrev": "SAC",
-        "netRating": -11.1,
-        "defRating": 119.6,
-        "offRating": 108.5,
+        "netRating": -10.6,
+        "defRating": 119.5,
+        "offRating": 108.8,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 29,
         "defRatingRank": 27,
-        "offRatingRank": 29,
-        "health": 0.8560209424083769,
+        "offRatingRank": 28,
+        "health": 0.7587085811384877,
         "injuredPlayers": [
+          {
+            "playerName": "Domantas Sabonis",
+            "pie": 0.11900000000000001
+          },
           {
             "playerName": "Drew Eubanks",
             "pie": 0.07200000000000001
@@ -1764,13 +2197,13 @@
         "isb2b": true,
         "id": 1610612745,
         "abbrev": "HOU",
-        "netRating": 9.7,
-        "defRating": 111.6,
-        "offRating": 121.4,
+        "netRating": 9.1,
+        "defRating": 112.1,
+        "offRating": 121.2,
         "wins": 16,
-        "losses": 7,
-        "netRatingRank": 2,
-        "defRatingRank": 3,
+        "losses": 8,
+        "netRatingRank": 3,
+        "defRatingRank": 5,
         "offRatingRank": 3,
         "health": 1.0,
         "injuredPlayers": []
@@ -1781,12 +2214,12 @@
     "gameID": "22500402",
     "gameDate": "2025-12-22",
     "gameTime": "7:00 pm ET",
-    "watchability": 64.77,
-    "teamQuality": 48.18,
-    "competitiveness": 79.47,
-    "netRatingTotal": -0.8,
-    "netRatingDiff": 6.2,
-    "healthAdj": -2.18,
+    "watchability": 66.75,
+    "teamQuality": 47.25,
+    "competitiveness": 83.44,
+    "netRatingTotal": -1.1,
+    "netRatingDiff": 5.1,
+    "healthAdj": -2.21,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1794,15 +2227,15 @@
         "isb2b": false,
         "id": 1610612739,
         "abbrev": "CLE",
-        "netRating": 2.7,
-        "defRating": 113.2,
-        "offRating": 115.8,
+        "netRating": 2.0,
+        "defRating": 113.4,
+        "offRating": 115.4,
         "wins": 15,
-        "losses": 12,
-        "netRatingRank": 10,
-        "defRatingRank": 9,
-        "offRatingRank": 10,
-        "health": 0.9126344086021506,
+        "losses": 13,
+        "netRatingRank": 12,
+        "defRatingRank": 14,
+        "offRatingRank": 11,
+        "health": 0.911504424778761,
         "injuredPlayers": [
           {
             "playerName": "Evan Mobley",
@@ -1815,14 +2248,14 @@
         "isb2b": false,
         "id": 1610612766,
         "abbrev": "CHA",
-        "netRating": -3.5,
-        "defRating": 117.3,
-        "offRating": 113.8,
-        "wins": 8,
+        "netRating": -3.1,
+        "defRating": 117.5,
+        "offRating": 114.4,
+        "wins": 9,
         "losses": 18,
-        "netRatingRank": 21,
-        "defRatingRank": 23,
-        "offRatingRank": 17,
+        "netRatingRank": 19,
+        "defRatingRank": 24,
+        "offRatingRank": 14,
         "health": 1.0,
         "injuredPlayers": []
       }
@@ -1832,12 +2265,12 @@
     "gameID": "22500403",
     "gameDate": "2025-12-22",
     "gameTime": "7:30 pm ET",
-    "watchability": 49.23,
-    "teamQuality": 45.45,
-    "competitiveness": 54.3,
-    "netRatingTotal": -2.0,
-    "netRatingDiff": 13.8,
-    "healthAdj": -1.53,
+    "watchability": 48.97,
+    "teamQuality": 45.5,
+    "competitiveness": 55.84,
+    "netRatingTotal": -1.8,
+    "netRatingDiff": 13.6,
+    "healthAdj": -2.74,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1861,16 +2294,20 @@
         "isb2b": false,
         "id": 1610612754,
         "abbrev": "IND",
-        "netRating": -7.9,
-        "defRating": 116.1,
-        "offRating": 108.2,
+        "netRating": -7.7,
+        "defRating": 116.0,
+        "offRating": 108.4,
         "wins": 6,
-        "losses": 20,
+        "losses": 21,
         "netRatingRank": 27,
         "defRatingRank": 19,
         "offRatingRank": 30,
-        "health": 0.9388122375524894,
+        "health": 0.8905021173623714,
         "injuredPlayers": [
+          {
+            "playerName": "Aaron Nesmith",
+            "pie": 0.079
+          },
           {
             "playerName": "Obi Toppin",
             "pie": 0.10200000000000001
@@ -1883,12 +2320,12 @@
     "gameID": "22500404",
     "gameDate": "2025-12-22",
     "gameTime": "8:00 pm ET",
-    "watchability": 58.34,
-    "teamQuality": 23.41,
-    "competitiveness": 84.44,
-    "netRatingTotal": -11.7,
-    "netRatingDiff": 4.7,
-    "healthAdj": -1.69,
+    "watchability": 58.73,
+    "teamQuality": 22.5,
+    "competitiveness": 85.71,
+    "netRatingTotal": -11.0,
+    "netRatingDiff": 4.4,
+    "healthAdj": -1.7,
     "b2bAdj": 0,
     "teams": [
       {
@@ -1896,10 +2333,10 @@
         "isb2b": false,
         "id": 1610612740,
         "abbrev": "NOP",
-        "netRating": -8.2,
+        "netRating": -7.7,
         "defRating": 119.7,
-        "offRating": 111.5,
-        "wins": 5,
+        "offRating": 111.9,
+        "wins": 6,
         "losses": 22,
         "netRatingRank": 28,
         "defRatingRank": 28,
@@ -1912,15 +2349,15 @@
         "isb2b": false,
         "id": 1610612742,
         "abbrev": "DAL",
-        "netRating": -3.5,
-        "defRating": 112.6,
-        "offRating": 109.1,
-        "wins": 10,
+        "netRating": -3.3,
+        "defRating": 112.2,
+        "offRating": 108.9,
+        "wins": 11,
         "losses": 17,
-        "netRatingRank": 20,
-        "defRatingRank": 8,
-        "offRatingRank": 28,
-        "health": 0.9323741007194244,
+        "netRatingRank": 21,
+        "defRatingRank": 6,
+        "offRatingRank": 27,
+        "health": 0.9321789321789321,
         "injuredPlayers": [
           {
             "playerName": "Dereck Lively II",
@@ -1934,11 +2371,11 @@
     "gameID": "22500405",
     "gameDate": "2025-12-22",
     "gameTime": "9:00 pm ET",
-    "watchability": 44.72,
-    "teamQuality": 55.68,
-    "competitiveness": 46.69,
+    "watchability": 45.18,
+    "teamQuality": 56.25,
+    "competitiveness": 47.08,
     "netRatingTotal": 2.5,
-    "netRatingDiff": 16.1,
+    "netRatingDiff": 16.3,
     "healthAdj": -5.57,
     "b2bAdj": 0,
     "teams": [
@@ -1947,15 +2384,15 @@
         "isb2b": false,
         "id": 1610612743,
         "abbrev": "DEN",
-        "netRating": 9.3,
-        "defRating": 115.1,
+        "netRating": 9.4,
+        "defRating": 115.0,
         "offRating": 124.4,
-        "wins": 19,
+        "wins": 20,
         "losses": 6,
-        "netRatingRank": 3,
+        "netRatingRank": 2,
         "defRatingRank": 17,
         "offRatingRank": 1,
-        "health": 0.8850828729281768,
+        "health": 0.8857142857142858,
         "injuredPlayers": [
           {
             "playerName": "Aaron Gordon",
@@ -1972,15 +2409,15 @@
         "isb2b": false,
         "id": 1610612762,
         "abbrev": "UTA",
-        "netRating": -6.8,
-        "defRating": 120.5,
-        "offRating": 113.6,
+        "netRating": -6.9,
+        "defRating": 121.2,
+        "offRating": 114.3,
         "wins": 10,
-        "losses": 15,
+        "losses": 16,
         "netRatingRank": 26,
         "defRatingRank": 29,
-        "offRatingRank": 19,
-        "health": 0.8922716627634661,
+        "offRatingRank": 16,
+        "health": 0.891679748822606,
         "injuredPlayers": [
           {
             "playerName": "Walker Kessler",
@@ -1994,12 +2431,12 @@
     "gameID": "22500406",
     "gameDate": "2025-12-22",
     "gameTime": "9:30 pm ET",
-    "watchability": 53.73,
-    "teamQuality": 84.32,
-    "competitiveness": 41.39,
-    "netRatingTotal": 15.1,
-    "netRatingDiff": 17.7,
-    "healthAdj": -4.83,
+    "watchability": 55.97,
+    "teamQuality": 88.5,
+    "competitiveness": 42.86,
+    "netRatingTotal": 15.4,
+    "netRatingDiff": 17.6,
+    "healthAdj": -5.14,
     "b2bAdj": 0,
     "teams": [
       {
@@ -2007,10 +2444,10 @@
         "isb2b": false,
         "id": 1610612760,
         "abbrev": "OKC",
-        "netRating": 16.4,
-        "defRating": 103.4,
-        "offRating": 119.8,
-        "wins": 24,
+        "netRating": 16.5,
+        "defRating": 103.0,
+        "offRating": 119.5,
+        "wins": 25,
         "losses": 2,
         "netRatingRank": 1,
         "defRatingRank": 1,
@@ -2023,15 +2460,15 @@
         "isb2b": false,
         "id": 1610612763,
         "abbrev": "MEM",
-        "netRating": -1.3,
-        "defRating": 113.8,
-        "offRating": 112.4,
-        "wins": 12,
+        "netRating": -1.1,
+        "defRating": 113.3,
+        "offRating": 112.3,
+        "wins": 13,
         "losses": 14,
         "netRatingRank": 18,
-        "defRatingRank": 13,
+        "defRatingRank": 12,
         "offRatingRank": 24,
-        "health": 0.8068386322735452,
+        "health": 0.7942492012779552,
         "injuredPlayers": [
           {
             "playerName": "Javon Small",
@@ -2053,12 +2490,12 @@
     "gameID": "22500407",
     "gameDate": "2025-12-22",
     "gameTime": "10:00 pm ET",
-    "watchability": 78.26,
-    "teamQuality": 61.82,
-    "competitiveness": 93.38,
-    "netRatingTotal": 5.2,
-    "netRatingDiff": 2.0,
-    "healthAdj": -2.5,
+    "watchability": 77.93,
+    "teamQuality": 61.25,
+    "competitiveness": 95.13,
+    "netRatingTotal": 4.5,
+    "netRatingDiff": 1.5,
+    "healthAdj": -3.65,
     "b2bAdj": 0,
     "teams": [
       {
@@ -2066,31 +2503,36 @@
         "isb2b": false,
         "id": 1610612744,
         "abbrev": "GSW",
-        "netRating": 1.6,
-        "defRating": 111.8,
-        "offRating": 113.4,
+        "netRating": 1.5,
+        "defRating": 111.4,
+        "offRating": 112.8,
         "wins": 13,
-        "losses": 14,
-        "netRatingRank": 13,
-        "defRatingRank": 5,
+        "losses": 15,
+        "netRatingRank": 14,
+        "defRatingRank": 4,
         "offRatingRank": 21,
-        "health": 1.0,
-        "injuredPlayers": []
+        "health": 0.9544846050870147,
+        "injuredPlayers": [
+          {
+            "playerName": "Al Horford",
+            "pie": 0.068
+          }
+        ]
       },
       {
         "isHome": false,
         "isb2b": false,
         "id": 1610612753,
         "abbrev": "ORL",
-        "netRating": 3.6,
-        "defRating": 112.1,
-        "offRating": 115.7,
+        "netRating": 3.0,
+        "defRating": 112.5,
+        "offRating": 115.6,
         "wins": 15,
-        "losses": 11,
+        "losses": 12,
         "netRatingRank": 9,
-        "defRatingRank": 6,
-        "offRatingRank": 11,
-        "health": 0.9001406469760901,
+        "defRatingRank": 8,
+        "offRatingRank": 10,
+        "health": 0.8996466431095407,
         "injuredPlayers": [
           {
             "playerName": "Franz Wagner",
@@ -2104,11 +2546,11 @@
     "gameID": "22500408",
     "gameDate": "2025-12-22",
     "gameTime": "10:00 pm ET",
-    "watchability": 62.16,
-    "teamQuality": 56.82,
-    "competitiveness": 68.21,
-    "netRatingTotal": 3.0,
-    "netRatingDiff": 9.6,
+    "watchability": 63.37,
+    "teamQuality": 57.0,
+    "competitiveness": 70.13,
+    "netRatingTotal": 2.8,
+    "netRatingDiff": 9.2,
     "healthAdj": -1.5,
     "b2bAdj": 0,
     "teams": [
@@ -2117,15 +2559,15 @@
         "isb2b": false,
         "id": 1610612757,
         "abbrev": "POR",
-        "netRating": -3.3,
-        "defRating": 117.2,
-        "offRating": 113.8,
-        "wins": 10,
+        "netRating": -3.2,
+        "defRating": 117.1,
+        "offRating": 113.9,
+        "wins": 11,
         "losses": 16,
-        "netRatingRank": 19,
-        "defRatingRank": 22,
+        "netRatingRank": 20,
+        "defRatingRank": 23,
         "offRatingRank": 18,
-        "health": 0.9401330376940134,
+        "health": 0.9398216939078752,
         "injuredPlayers": [
           {
             "playerName": "Blake Wesley",
@@ -2138,11 +2580,11 @@
         "isb2b": false,
         "id": 1610612765,
         "abbrev": "DET",
-        "netRating": 6.3,
-        "defRating": 111.2,
-        "offRating": 117.4,
+        "netRating": 6.0,
+        "defRating": 110.9,
+        "offRating": 116.9,
         "wins": 21,
-        "losses": 5,
+        "losses": 6,
         "netRatingRank": 5,
         "defRatingRank": 2,
         "offRatingRank": 9,
@@ -2152,98 +2594,140 @@
     ]
   },
   {
-    "gameID": "22501222",
-    "gameDate": "2025-12-15",
+    "gameID": "22500409",
+    "gameDate": "2025-12-23",
     "gameTime": "7:00 pm ET",
-    "watchability": 87.44,
-    "teamQuality": 77.73,
-    "competitiveness": 98.68,
-    "netRatingTotal": 12.2,
-    "netRatingDiff": 0.4,
-    "healthAdj": -2.86,
-    "b2bAdj": 0,
+    "watchability": 34.04,
+    "teamQuality": 6.5,
+    "competitiveness": 63.64,
+    "netRatingTotal": -17.4,
+    "netRatingDiff": 11.2,
+    "healthAdj": -1.74,
+    "b2bAdj": -5,
     "teams": [
       {
         "isHome": true,
-        "isb2b": false,
-        "id": 1610612738,
-        "abbrev": "BOS",
-        "netRating": 5.9,
-        "defRating": 115.1,
-        "offRating": 121.0,
-        "wins": 15,
-        "losses": 11,
-        "netRatingRank": 6,
-        "defRatingRank": 18,
-        "offRatingRank": 4,
-        "health": 0.8856502242152466,
-        "injuredPlayers": [
-          {
-            "playerName": "Ron Harper Jr.",
-            "pie": 0.09
-          },
-          {
-            "playerName": "Sam Hauser",
-            "pie": 0.063
-          }
-        ]
+        "isb2b": true,
+        "id": 1610612766,
+        "abbrev": "CHA",
+        "netRating": -3.1,
+        "defRating": 117.5,
+        "offRating": 114.4,
+        "wins": 9,
+        "losses": 18,
+        "netRatingRank": 19,
+        "defRatingRank": 24,
+        "offRatingRank": 14,
+        "health": 1.0,
+        "injuredPlayers": []
       },
       {
         "isHome": false,
         "isb2b": false,
-        "id": 1610612765,
-        "abbrev": "DET",
-        "netRating": 6.3,
-        "defRating": 111.2,
-        "offRating": 117.4,
-        "wins": 21,
-        "losses": 5,
-        "netRatingRank": 5,
-        "defRatingRank": 2,
-        "offRatingRank": 9,
-        "health": 1.0,
+        "id": 1610612764,
+        "abbrev": "WAS",
+        "netRating": -14.3,
+        "defRating": 122.9,
+        "offRating": 108.6,
+        "wins": 4,
+        "losses": 21,
+        "netRatingRank": 30,
+        "defRatingRank": 30,
+        "offRatingRank": 29,
+        "health": 0.9304482225656877,
         "injuredPlayers": [
           {
-            "playerName": "Isaac Jones",
-            "pie": 0.0
+            "playerName": "Corey Kispert",
+            "pie": 0.09
           }
         ]
       }
     ]
   },
   {
-    "gameID": "22501224",
-    "gameDate": "2025-12-15",
-    "gameTime": "9:00 pm ET",
-    "watchability": 51.14,
-    "teamQuality": 26.59,
-    "competitiveness": 89.07,
-    "netRatingTotal": -10.3,
-    "netRatingDiff": 3.3,
-    "healthAdj": -12.94,
+    "gameID": "22500410",
+    "gameDate": "2025-12-23",
+    "gameTime": "7:00 pm ET",
+    "watchability": 59.4,
+    "teamQuality": 38.75,
+    "competitiveness": 78.9,
+    "netRatingTotal": -4.5,
+    "netRatingDiff": 6.5,
+    "healthAdj": -3.43,
     "b2bAdj": 0,
     "teams": [
       {
         "isHome": true,
         "isb2b": false,
-        "id": 1610612762,
-        "abbrev": "UTA",
-        "netRating": -6.8,
-        "defRating": 120.5,
-        "offRating": 113.6,
-        "wins": 10,
-        "losses": 15,
-        "netRatingRank": 26,
-        "defRatingRank": 29,
-        "offRatingRank": 19,
-        "health": 0.8103044496487121,
+        "id": 1610612755,
+        "abbrev": "PHI",
+        "netRating": 1.0,
+        "defRating": 113.3,
+        "offRating": 114.4,
+        "wins": 14,
+        "losses": 11,
+        "netRatingRank": 15,
+        "defRatingRank": 13,
+        "offRatingRank": 15,
+        "health": 0.8626334519572953,
         "injuredPlayers": [
           {
-            "playerName": "Jusuf Nurki\u0107",
-            "pie": 0.105
+            "playerName": "Kelly Oubre Jr.",
+            "pie": 0.09
           },
           {
-            "playerName": "Walker Kessler",
+            "playerName": "Trendon Watford",
+            "pie": 0.10300000000000001
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612751,
+        "abbrev": "BKN",
+        "netRating": -5.5,
+        "defRating": 117.6,
+        "offRating": 112.1,
+        "wins": 7,
+        "losses": 19,
+        "netRatingRank": 24,
+        "defRatingRank": 25,
+        "offRatingRank": 25,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500411",
+    "gameDate": "2025-12-23",
+    "gameTime": "7:30 pm ET",
+    "watchability": 65.98,
+    "teamQuality": 39.25,
+    "competitiveness": 84.74,
+    "netRatingTotal": -4.3,
+    "netRatingDiff": 4.7,
+    "healthAdj": -0.56,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612737,
+        "abbrev": "ATL",
+        "netRating": 0.2,
+        "defRating": 114.5,
+        "offRating": 114.8,
+        "wins": 15,
+        "losses": 13,
+        "netRatingRank": 16,
+        "defRatingRank": 16,
+        "offRatingRank": 12,
+        "health": 0.9111969111969112,
+        "injuredPlayers": [
+          {
+            "playerName": "Kristaps Porzi\u0146\u0123is",
             "pie": 0.138
           }
         ]
@@ -2251,64 +2735,243 @@
       {
         "isHome": false,
         "isb2b": false,
-        "id": 1610612742,
-        "abbrev": "DAL",
-        "netRating": -3.5,
-        "defRating": 112.6,
-        "offRating": 109.1,
-        "wins": 10,
-        "losses": 17,
-        "netRatingRank": 20,
-        "defRatingRank": 8,
-        "offRatingRank": 28,
-        "health": 0.6719424460431656,
+        "id": 1610612741,
+        "abbrev": "CHI",
+        "netRating": -4.5,
+        "defRating": 116.9,
+        "offRating": 112.3,
+        "wins": 11,
+        "losses": 15,
+        "netRatingRank": 23,
+        "defRatingRank": 20,
+        "offRatingRank": 23,
+        "health": 1.0662944870900208,
         "injuredPlayers": [
           {
-            "playerName": "Anthony Davis",
-            "pie": 0.163
-          },
-          {
-            "playerName": "Brandon Williams",
-            "pie": 0.097
-          },
-          {
-            "playerName": "D'Angelo Russell",
-            "pie": 0.10200000000000001
-          },
-          {
-            "playerName": "Dereck Lively II",
-            "pie": 0.094
+            "playerName": "Noa Essengue",
+            "pie": -0.095
           }
         ]
       }
     ]
   },
   {
-    "gameID": "22501225",
-    "gameDate": "2025-12-15",
-    "gameTime": "9:30 pm ET",
-    "watchability": 90.31,
-    "teamQuality": 93.18,
-    "competitiveness": 98.68,
-    "netRatingTotal": 19.0,
+    "gameID": "22500412",
+    "gameDate": "2025-12-23",
+    "gameTime": "7:30 pm ET",
+    "watchability": 48.19,
+    "teamQuality": 35.75,
+    "competitiveness": 68.51,
+    "netRatingTotal": -5.7,
+    "netRatingDiff": 9.7,
+    "healthAdj": -2.21,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": true,
+        "id": 1610612739,
+        "abbrev": "CLE",
+        "netRating": 2.0,
+        "defRating": 113.4,
+        "offRating": 115.4,
+        "wins": 15,
+        "losses": 13,
+        "netRatingRank": 12,
+        "defRatingRank": 14,
+        "offRatingRank": 11,
+        "health": 0.911504424778761,
+        "injuredPlayers": [
+          {
+            "playerName": "Evan Mobley",
+            "pie": 0.13
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": true,
+        "id": 1610612740,
+        "abbrev": "NOP",
+        "netRating": -7.7,
+        "defRating": 119.7,
+        "offRating": 111.9,
+        "wins": 6,
+        "losses": 22,
+        "netRatingRank": 28,
+        "defRatingRank": 28,
+        "offRatingRank": 26,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500413",
+    "gameDate": "2025-12-23",
+    "gameTime": "7:30 pm ET",
+    "watchability": 49.05,
+    "teamQuality": 21.5,
+    "competitiveness": 87.01,
+    "netRatingTotal": -11.4,
+    "netRatingDiff": 4.0,
+    "healthAdj": -6.75,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": true,
+        "id": 1610612754,
+        "abbrev": "IND",
+        "netRating": -7.7,
+        "defRating": 116.0,
+        "offRating": 108.4,
+        "wins": 6,
+        "losses": 21,
+        "netRatingRank": 27,
+        "defRatingRank": 19,
+        "offRatingRank": 30,
+        "health": 0.8905021173623714,
+        "injuredPlayers": [
+          {
+            "playerName": "Aaron Nesmith",
+            "pie": 0.079
+          },
+          {
+            "playerName": "Obi Toppin",
+            "pie": 0.10200000000000001
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612749,
+        "abbrev": "MIL",
+        "netRating": -3.7,
+        "defRating": 116.9,
+        "offRating": 113.2,
+        "wins": 11,
+        "losses": 17,
+        "netRatingRank": 22,
+        "defRatingRank": 21,
+        "offRatingRank": 20,
+        "health": 0.8393719806763285,
+        "injuredPlayers": [
+          {
+            "playerName": "Giannis Antetokounmpo",
+            "pie": 0.224
+          },
+          {
+            "playerName": "Taurean Prince",
+            "pie": 0.042
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500414",
+    "gameDate": "2025-12-23",
+    "gameTime": "7:30 pm ET",
+    "watchability": 81.83,
+    "teamQuality": 63.0,
+    "competitiveness": 98.7,
+    "netRatingTotal": 5.2,
     "netRatingDiff": 0.4,
-    "healthAdj": -6.17,
+    "healthAdj": -2.59,
     "b2bAdj": 0,
     "teams": [
       {
         "isHome": true,
         "isb2b": false,
+        "id": 1610612748,
+        "abbrev": "MIA",
+        "netRating": 2.8,
+        "defRating": 111.2,
+        "offRating": 114.0,
+        "wins": 15,
+        "losses": 12,
+        "netRatingRank": 10,
+        "defRatingRank": 3,
+        "offRatingRank": 17,
+        "health": 0.8963768115942029,
+        "injuredPlayers": [
+          {
+            "playerName": "Nikola Jovi\u0107",
+            "pie": 0.068
+          },
+          {
+            "playerName": "Pelle Larsson",
+            "pie": 0.075
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612761,
+        "abbrev": "TOR",
+        "netRating": 2.4,
+        "defRating": 112.4,
+        "offRating": 114.8,
+        "wins": 17,
+        "losses": 11,
+        "netRatingRank": 11,
+        "defRatingRank": 7,
+        "offRatingRank": 13,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500415",
+    "gameDate": "2025-12-23",
+    "gameTime": "8:00 pm ET",
+    "watchability": 51.81,
+    "teamQuality": 65.25,
+    "competitiveness": 58.77,
+    "netRatingTotal": 6.1,
+    "netRatingDiff": 12.7,
+    "healthAdj": -4.55,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": true,
+        "id": 1610612742,
+        "abbrev": "DAL",
+        "netRating": -3.3,
+        "defRating": 112.2,
+        "offRating": 108.9,
+        "wins": 11,
+        "losses": 17,
+        "netRatingRank": 21,
+        "defRatingRank": 6,
+        "offRatingRank": 27,
+        "health": 0.9321789321789321,
+        "injuredPlayers": [
+          {
+            "playerName": "Dereck Lively II",
+            "pie": 0.094
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": true,
         "id": 1610612743,
         "abbrev": "DEN",
-        "netRating": 9.3,
-        "defRating": 115.1,
+        "netRating": 9.4,
+        "defRating": 115.0,
         "offRating": 124.4,
-        "wins": 19,
+        "wins": 20,
         "losses": 6,
-        "netRatingRank": 3,
+        "netRatingRank": 2,
         "defRatingRank": 17,
         "offRatingRank": 1,
-        "health": 0.8419889502762431,
+        "health": 0.8857142857142858,
         "injuredPlayers": [
           {
             "playerName": "Aaron Gordon",
@@ -2317,100 +2980,216 @@
           {
             "playerName": "Christian Braun",
             "pie": 0.078
-          },
-          {
-            "playerName": "Peyton Watson",
-            "pie": 0.078
-          }
-        ]
-      },
-      {
-        "isHome": false,
-        "isb2b": false,
-        "id": 1610612745,
-        "abbrev": "HOU",
-        "netRating": 9.7,
-        "defRating": 111.6,
-        "offRating": 121.4,
-        "wins": 16,
-        "losses": 7,
-        "netRatingRank": 2,
-        "defRatingRank": 3,
-        "offRatingRank": 3,
-        "health": 0.9111470113085621,
-        "injuredPlayers": [
-          {
-            "playerName": "Tari Eason",
-            "pie": 0.11
           }
         ]
       }
     ]
   },
   {
-    "gameID": "22501226",
-    "gameDate": "2025-12-15",
-    "gameTime": "10:30 pm ET",
-    "watchability": 54.29,
-    "teamQuality": 34.32,
-    "competitiveness": 85.76,
-    "netRatingTotal": -6.9,
-    "netRatingDiff": 4.3,
-    "healthAdj": -10.9,
+    "gameID": "22500416",
+    "gameDate": "2025-12-23",
+    "gameTime": "8:00 pm ET",
+    "watchability": 83.32,
+    "teamQuality": 82.0,
+    "competitiveness": 87.01,
+    "netRatingTotal": 12.8,
+    "netRatingDiff": 4.0,
+    "healthAdj": -1.69,
     "b2bAdj": 0,
     "teams": [
       {
         "isHome": true,
         "isb2b": false,
-        "id": 1610612746,
-        "abbrev": "LAC",
-        "netRating": -5.6,
-        "defRating": 119.1,
-        "offRating": 113.6,
-        "wins": 6,
-        "losses": 20,
-        "netRatingRank": 25,
-        "defRatingRank": 26,
-        "offRatingRank": 20,
-        "health": 0.8983174835405998,
+        "id": 1610612750,
+        "abbrev": "MIN",
+        "netRating": 4.4,
+        "defRating": 113.0,
+        "offRating": 117.4,
+        "wins": 17,
+        "losses": 10,
+        "netRatingRank": 8,
+        "defRatingRank": 9,
+        "offRatingRank": 8,
+        "health": 1.0,
+        "injuredPlayers": []
+      },
+      {
+        "isHome": false,
+        "isb2b": false,
+        "id": 1610612752,
+        "abbrev": "NYK",
+        "netRating": 8.4,
+        "defRating": 113.3,
+        "offRating": 121.7,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 4,
+        "defRatingRank": 11,
+        "offRatingRank": 2,
+        "health": 0.932443703085905,
         "injuredPlayers": [
           {
-            "playerName": "Bradley Beal",
-            "pie": 0.018000000000000002
+            "playerName": "Landry Shamet",
+            "pie": 0.081
           },
           {
-            "playerName": "Derrick Jones Jr.",
-            "pie": 0.074
-          },
+            "playerName": "Miles McBride",
+            "pie": 0.081
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500417",
+    "gameDate": "2025-12-23",
+    "gameTime": "8:30 pm ET",
+    "watchability": 72.6,
+    "teamQuality": 100.0,
+    "competitiveness": 62.66,
+    "netRatingTotal": 21.5,
+    "netRatingDiff": 11.5,
+    "healthAdj": -0.0,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612759,
+        "abbrev": "SAS",
+        "netRating": 5.0,
+        "defRating": 113.1,
+        "offRating": 118.1,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 7,
+        "defRatingRank": 10,
+        "offRatingRank": 7,
+        "health": 1.0,
+        "injuredPlayers": []
+      },
+      {
+        "isHome": false,
+        "isb2b": true,
+        "id": 1610612760,
+        "abbrev": "OKC",
+        "netRating": 16.5,
+        "defRating": 103.0,
+        "offRating": 119.5,
+        "wins": 25,
+        "losses": 2,
+        "netRatingRank": 1,
+        "defRatingRank": 1,
+        "offRatingRank": 5,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500418",
+    "gameDate": "2025-12-23",
+    "gameTime": "9:00 pm ET",
+    "watchability": 75.62,
+    "teamQuality": 54.25,
+    "competitiveness": 94.48,
+    "netRatingTotal": 1.7,
+    "netRatingDiff": 1.7,
+    "healthAdj": -2.76,
+    "b2bAdj": 0,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612756,
+        "abbrev": "PHX",
+        "netRating": 0.0,
+        "defRating": 113.6,
+        "offRating": 113.6,
+        "wins": 15,
+        "losses": 12,
+        "netRatingRank": 17,
+        "defRatingRank": 15,
+        "offRatingRank": 19,
+        "health": 0.9013452914798207,
+        "injuredPlayers": [
           {
-            "playerName": "Nicolas Batum",
-            "pie": 0.047
+            "playerName": "Jalen Green",
+            "pie": 0.154
           }
         ]
       },
       {
         "isHome": false,
         "isb2b": false,
-        "id": 1610612763,
-        "abbrev": "MEM",
-        "netRating": -1.3,
-        "defRating": 113.8,
-        "offRating": 112.4,
-        "wins": 12,
-        "losses": 14,
-        "netRatingRank": 18,
-        "defRatingRank": 13,
-        "offRatingRank": 24,
-        "health": 0.6658668266346731,
+        "id": 1610612747,
+        "abbrev": "LAL",
+        "netRating": 1.7000000000000002,
+        "defRating": 117.1,
+        "offRating": 118.8,
+        "wins": 19,
+        "losses": 7,
+        "netRatingRank": 13,
+        "defRatingRank": 22,
+        "offRatingRank": 6,
+        "health": 0.9880868955851437,
         "injuredPlayers": [
           {
-            "playerName": "Cam Spencer",
-            "pie": 0.128
-          },
+            "playerName": "Gabe Vincent",
+            "pie": 0.017
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500419",
+    "gameDate": "2025-12-23",
+    "gameTime": "9:00 pm ET",
+    "watchability": 47.85,
+    "teamQuality": 30.0,
+    "competitiveness": 81.17,
+    "netRatingTotal": -8.0,
+    "netRatingDiff": 5.8,
+    "healthAdj": -7.85,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": true,
+        "id": 1610612762,
+        "abbrev": "UTA",
+        "netRating": -6.9,
+        "defRating": 121.2,
+        "offRating": 114.3,
+        "wins": 10,
+        "losses": 16,
+        "netRatingRank": 26,
+        "defRatingRank": 29,
+        "offRatingRank": 16,
+        "health": 0.891679748822606,
+        "injuredPlayers": [
           {
-            "playerName": "Ja Morant",
-            "pie": 0.107
-          },
+            "playerName": "Walker Kessler",
+            "pie": 0.138
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": true,
+        "id": 1610612763,
+        "abbrev": "MEM",
+        "netRating": -1.1,
+        "defRating": 113.3,
+        "offRating": 112.3,
+        "wins": 13,
+        "losses": 14,
+        "netRatingRank": 18,
+        "defRatingRank": 12,
+        "offRatingRank": 24,
+        "health": 0.7942492012779552,
+        "injuredPlayers": [
           {
             "playerName": "Javon Small",
             "pie": 0.064
@@ -2428,70 +3207,168 @@
     ]
   },
   {
-    "gameID": "22501227",
-    "gameDate": "2025-12-15",
-    "gameTime": "7:30 pm ET",
-    "watchability": 72.37,
-    "teamQuality": 60.68,
-    "competitiveness": 99.01,
-    "netRatingTotal": 4.7,
-    "netRatingDiff": 0.3,
-    "healthAdj": -11.31,
+    "gameID": "22500420",
+    "gameDate": "2025-12-23",
+    "gameTime": "10:00 pm ET",
+    "watchability": 58.71,
+    "teamQuality": 49.5,
+    "competitiveness": 79.87,
+    "netRatingTotal": -0.2,
+    "netRatingDiff": 6.2,
+    "healthAdj": -4.01,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": true,
+        "id": 1610612757,
+        "abbrev": "POR",
+        "netRating": -3.2,
+        "defRating": 117.1,
+        "offRating": 113.9,
+        "wins": 11,
+        "losses": 16,
+        "netRatingRank": 20,
+        "defRatingRank": 23,
+        "offRatingRank": 18,
+        "health": 0.9398216939078752,
+        "injuredPlayers": [
+          {
+            "playerName": "Blake Wesley",
+            "pie": 0.081
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": true,
+        "id": 1610612753,
+        "abbrev": "ORL",
+        "netRating": 3.0,
+        "defRating": 112.5,
+        "offRating": 115.6,
+        "wins": 15,
+        "losses": 12,
+        "netRatingRank": 9,
+        "defRatingRank": 8,
+        "offRatingRank": 10,
+        "health": 0.8996466431095407,
+        "injuredPlayers": [
+          {
+            "playerName": "Franz Wagner",
+            "pie": 0.14200000000000002
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameID": "22500421",
+    "gameDate": "2025-12-23",
+    "gameTime": "10:00 pm ET",
+    "watchability": 34.01,
+    "teamQuality": 38.5,
+    "competitiveness": 46.1,
+    "netRatingTotal": -4.6,
+    "netRatingDiff": 16.6,
+    "healthAdj": -4.06,
+    "b2bAdj": -5,
+    "teams": [
+      {
+        "isHome": true,
+        "isb2b": false,
+        "id": 1610612758,
+        "abbrev": "SAC",
+        "netRating": -10.6,
+        "defRating": 119.5,
+        "offRating": 108.8,
+        "wins": 6,
+        "losses": 21,
+        "netRatingRank": 29,
+        "defRatingRank": 27,
+        "offRatingRank": 28,
+        "health": 0.8377230246389125,
+        "injuredPlayers": [
+          {
+            "playerName": "Domantas Sabonis",
+            "pie": 0.11900000000000001
+          },
+          {
+            "playerName": "Drew Eubanks",
+            "pie": 0.07200000000000001
+          }
+        ]
+      },
+      {
+        "isHome": false,
+        "isb2b": true,
+        "id": 1610612765,
+        "abbrev": "DET",
+        "netRating": 6.0,
+        "defRating": 110.9,
+        "offRating": 116.9,
+        "wins": 21,
+        "losses": 6,
+        "netRatingRank": 5,
+        "defRatingRank": 2,
+        "offRatingRank": 9,
+        "health": 1.0,
+        "injuredPlayers": []
+      }
+    ]
+  },
+  {
+    "gameID": "22500422",
+    "gameDate": "2025-12-23",
+    "gameTime": "11:00 pm ET",
+    "watchability": 51.69,
+    "teamQuality": 57.5,
+    "competitiveness": 50.65,
+    "netRatingTotal": 3.0,
+    "netRatingDiff": 15.2,
+    "healthAdj": -1.7,
     "b2bAdj": 0,
     "teams": [
       {
         "isHome": true,
         "isb2b": false,
-        "id": 1610612748,
-        "abbrev": "MIA",
-        "netRating": 2.5,
-        "defRating": 111.8,
-        "offRating": 114.3,
-        "wins": 14,
-        "losses": 12,
-        "netRatingRank": 11,
-        "defRatingRank": 4,
-        "offRatingRank": 15,
-        "health": 0.6984978540772532,
+        "id": 1610612746,
+        "abbrev": "LAC",
+        "netRating": -6.1,
+        "defRating": 118.9,
+        "offRating": 112.8,
+        "wins": 6,
+        "losses": 21,
+        "netRatingRank": 25,
+        "defRatingRank": 26,
+        "offRatingRank": 22,
+        "health": 0.9321033210332103,
         "injuredPlayers": [
           {
-            "playerName": "Nikola Jovi\u0107",
-            "pie": 0.068
+            "playerName": "Bradley Beal",
+            "pie": 0.018000000000000002
           },
           {
-            "playerName": "Pelle Larsson",
-            "pie": 0.075
-          },
-          {
-            "playerName": "Tyler Herro",
-            "pie": 0.138
+            "playerName": "Derrick Jones Jr.",
+            "pie": 0.074
           }
         ]
       },
       {
         "isHome": false,
         "isb2b": false,
-        "id": 1610612761,
-        "abbrev": "TOR",
-        "netRating": 2.2,
-        "defRating": 112.6,
-        "offRating": 114.8,
+        "id": 1610612745,
+        "abbrev": "HOU",
+        "netRating": 9.1,
+        "defRating": 112.1,
+        "offRating": 121.2,
         "wins": 16,
-        "losses": 11,
-        "netRatingRank": 12,
-        "defRatingRank": 7,
-        "offRatingRank": 12,
-        "health": 0.8491311216429699,
-        "injuredPlayers": [
-          {
-            "playerName": "A.J. Lawson",
-            "pie": 0.078
-          },
-          {
-            "playerName": "RJ Barrett",
-            "pie": 0.113
-          }
-        ]
+        "losses": 8,
+        "netRatingRank": 3,
+        "defRatingRank": 5,
+        "offRatingRank": 3,
+        "health": 1.0,
+        "injuredPlayers": []
       }
     ]
   }

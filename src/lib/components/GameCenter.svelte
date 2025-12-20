@@ -3,7 +3,6 @@
 	import GameData from './GameData.svelte';
 
 	export let game;
-	export let isExpanded = false;
 </script>
 
 <div class="game-center">
