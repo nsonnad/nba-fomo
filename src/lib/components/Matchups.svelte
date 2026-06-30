@@ -9,8 +9,9 @@
 	const today = new Date();
 	today.setHours(0, 0, 0, 0);
 	const gamesTodayOn = games.filter((game) => game.gameDateParsed >= today);
+  console.log(gamesTodayOn)
 
-	const gamesByDate = gamesTodayOn.reduce((map, game) => {
+	const gamesByDate = games.reduce((map, game) => {
 		const dateKey = displayFormatter(game.gameDateParsed);
 
 		// Check if the Map already has an entry for this date
